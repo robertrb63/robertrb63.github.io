@@ -51,15 +51,12 @@ const listUsers = async () => {
             content += `
                 <tr>
                     <td>${index + 1}</td>
-                    <td>${user.name}</td>
-                    <td>${user.email}</td>
                     <td>${user.address.city}</td>
-                    <td>${user.company.name}</td>
-                    <td><i class="fa-solid fa-check" style="color: green;"></i></td>
-                    <td>
-                        <button class="btn btn-sm btn-primary"><i class="fa-solid fa-pencil"></i></button>
-                        <button class="btn btn-sm btn-danger"><i class="fa-solid fa-trash-can"></i></button>
-                    </td>
+                    <td>${user.name}</td>
+                    <td>${user.phone}</td>
+                    <td>${user.company.catchPhrase}</td>
+                    <td>${user.website}</td>
+                    <td>${user.company.bs}</td>
                 </tr>`;
         });
         tableBody_users.innerHTML = content;
