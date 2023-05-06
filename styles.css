@@ -11,13 +11,6 @@ background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, F
     justify-content: space-between;
     align-items: center;
     padding: 20px 0;
-
-}
-
-
-.main-imag{
-    width: 500px;
-    
 }
 
 .main-imag{
@@ -26,7 +19,7 @@ background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, F
 }
 .main-img{
     width: 80px;
-    margin-left:500px ;
+    margin-left:200px ;
 
 }
 
