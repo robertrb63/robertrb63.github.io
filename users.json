@@ -8,18 +8,18 @@
         "street": "Calle Escuelas 3",
         "suite": "Apt. 3C",
         "city": "Aren",
-        "zipcode": "974 54 20 25",
+        "zipcode": "974542025",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616 61 31 74",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35 "
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
     },
     {
@@ -31,18 +31,18 @@
         "street": "Calle San Isidro 2",
         "suite": "1 B",
         "city": "Albalate",
-        "zipcode": "974 469 8 43",
+        "zipcode": "974469843",
         "geo": {
           "lat": "-43.9509",
           "lng": "-34.4618"
         }
       },
-      "phone": "697 83 37 57",
-      "website": "Jose María Huerva. Contacto:974 42 72 74",
+      "phone": "697833757",
+      "website": "Jose María Huerva. Contacto:974427274",
       "company": {
         "name": "Archiprestazgo del Bajo Cinca",
         "catchPhrase": "Unidad Pastoral del Bajo Cinca",
-        "bs": "Jose María Huerva. Contacto:974 42 72 74"
+        "bs": "Jose María Huerva. Contacto:974427274"
       }
     },
     {
@@ -54,64 +54,64 @@
         "street": "Plaza San Pedro, 1",
         "suite": "1",
         "city": "Fraga",
-        "zipcode": "974 42 72 74",
+        "zipcode": "974427274",
         "geo": {
           "lat": "",
           "lng": ""
         }
       },
       "phone": "mobil",
-      "website": "Jose María Huerva. Contacto:974 42 72 74",
+      "website": "Jose María Huerva. Contacto:974427274",
       "company": {
         "name": "Archipretazgo del Bajo Cinca",
         "catchPhrase": "Unidad pastoral de Fraga",
-        "bs": "Jose María Huerva. Contacto:974 42 72 74"
+        "bs": "Jose María Huerva. Contacto:974427274"
       }
     },
     {
       "id": 4,
       "name": "Luis Edbin Rubiano López",
       "username": "Grupo Parroquial de Benasque",
-      "email": "email",
+      "email": "parroquiadebenasque@hotmail.com",
       "address": {
         "street": "Plaza del ayuntamiento, 2",
         "suite": "1",
         "city": "Benasque",
-        "zipcode": "974 55 13 76",
+        "zipcode": "974551376",
         "geo": {
           "lat": "-68.6102",
           "lng": "-47.0653"
         }
       },
-      "phone": "646 7531 74",
-      "website": "Luis Edbin Rubiano López: 646 75 31 74",
+      "phone": "646753174",
+      "website": "Luis Edbin Rubiano López: 646753174",
       "company": {
         "name": "Archipretazgo Sobrarbe y Ribagoza ",
         "catchPhrase": "Unidad pastoral de Benasque",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
+        "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
     {
       "id": 5,
-      "name": "José LuisNunes Gómez",
-      "username": "Grupo Parroquial de Benasque",
-      "email": "email",
+      "name": "José Luis Nunes Gómez",
+      "username": "Grupo Parroquial de Ainsa",
+      "email": "joselng@hotmail.com",
       "address": {
         "street": "Calle Mayor, 23",
         "suite": "1",
         "city": "Ainsa",
-        "zipcode": "642 51 92 44",
+        "zipcode": "642519244",
         "geo": {
           "lat": "-68.6102",
           "lng": "-47.0653"
         }
       },
-      "phone": "646 7531 74",
-      "website": "José Luis Nunes Gómez. Contacto: 642 51 92 44",
+      "phone": "646753174",
+      "website": "José Luis Nunes Gómez. Contacto: 642519244",
       "company": {
         "name": "Archipretazgo Sobrarbe y Ribagoza ",
         "catchPhrase": "Unidad pastoral de Ainsa",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
+        "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
     {
@@ -123,14 +123,14 @@
         "street": "Calle Fallás, 6",
         "suite": "1",
         "city": "Boltaña",
-        "zipcode": "974 50 20 05",
+        "zipcode": "974502005",
         "geo": {
           "lat": "-68.6102",
           "lng": "-47.0653"
         }
       },
-      "phone": "640 79 73 20",
-      "website": "José Luis Nunes Gómez. Contacto: 642 51 92 44",
+      "phone": "640797320",
+      "website": "José Luis Nunes Gómez. Contacto: 642519244",
       "company": {
         "name": "Archipretazgo Sobrarbe y Ribagoza ",
         "catchPhrase": "Unidad pastoral de Aisa",
@@ -141,19 +141,19 @@
       "id": 7,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
-      "email": "email",
+      "email": "luisparada2020@gmail.com",
       "address": {
         "street": "Conde de Barcelona, 2",
         "suite": "1",
         "city": "Castejón del Sos",
-        "zipcode": "690 06 77 93",
+        "zipcode": "690067793",
         "geo": {
           "lat": "-68.6102",
           "lng": "-47.0653"
         }
       },
-      "phone": "690 06 77 93",
-      "website": "Luis Edbin Rubiano López: 646 75 31 74",
+      "phone": "690067793",
+      "website": "Luis Edbin Rubiano López: 646753174",
       "company": {
         "name": "Archipretazgo Sobrarbe y Ribagoza ",
         "catchPhrase": "Unidad pastoral de Benasque",
@@ -164,23 +164,23 @@
       "id": 8,
       "name": "José Ignacio Cardona ",
       "username": "Grupo Parroquial de Graus",
-      "email": "@gmail.com",
+      "email": "leonacho40@hotmail.com",
       "address": {
         "street": "Plaza Sn Miguel - #8",
         "suite": "Apt 1",
         "city": "Graus",
-        "zipcode": "974 54 07 28",
+        "zipcode": "974540728",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
         }
       },
       "phone": "616 38 98 07",
-      "website": "Jesús Ignacio Cardona. Contacto: 616 38 98 07",
+      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35 "
+        "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
     {
@@ -198,39 +198,39 @@
           "lng": "81.1496"
         }
       },
-      "phone": "656 37 71 29",
-      "website": "Jesús Ignacio Cardona. Contacto: 616 38 98 07",
+      "phone": "656377129",
+      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35 "
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
     },
     {
       "id": 10,
       "name": "Aurelio Ricau SanJuan",
       "username": "Grupo Parroquial de Roda de Isábena",
-      "email": "@gmail.com",
+      "email": "",
       "address": {
         "street": "Plaza Sn Miguel - #8",
         "suite": "Apt 1",
         "city": "Roda de Isábena",
-        "zipcode": "974 54 07 28",
+        "zipcode": "974540728",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
         }
       },
-      "phone": "615 37 81 16",
-      "website": "Jesús Ignacio Cardona. Contacto: 616 38 98 07",
+      "phone": "615378116",
+      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35 "
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
     },
     {
-      "id": 3,
+      "id": 11,
       "name": "Rafael Carrasquer Carrasquer ",
       "username": "Grupo Parroquial de Ballobar",
       "email": "email",
@@ -245,11 +245,172 @@
         }
       },
       "phone": "660 27 29 68",
-      "website": "Jose María Huerva. Contacto:974 42 72 74",
+      "website": "Jose María Huerva. Contacto:974427274",
       "company": {
-        "name": "Archipretazgo del Bajo Cinca",
+        "name": "Archiprestazgo del Bajo Cinca",
         "catchPhrase": "Unidad pastoral de Fraga",
-        "bs": "Jose María Huerva. Contacto:974 42 72 74"
+        "bs": "Jose María Huerva. Contacto:974427274"
+      }
+    },
+    {
+      "id": 12,
+      "name": "José Alejo Díaz",
+      "username": "Grupo Parroquial de Campo",
+      "email": "quiassobrarbe@gmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Campo",
+        "zipcode": "974540728",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "679381892",
+      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },
+    {
+      "id": 13,
+      "name": "José Luis Nunes Gómez",
+      "username": "Grupo Parroquial de Ainsa",
+      "email": "joselng@hotmail.com",
+      "address": {
+        "street": "Calle Mayor 23",
+        "suite": "1",
+        "city": "Ainsa",
+        "zipcode": "",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "642519244",
+      "website": "José Luis Nunes Gómez. Contacto: 642519244",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe y Ribagoza ",
+        "catchPhrase": "Unidad pastoral de Aisa",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Jhon Mario Moná Carvajal",
+      "username": "Grupo Parroquial de Plan",
+      "email": "johnmoncar@gmail.com",
+      "address": {
+        "street": "Calle Iglesia",
+        "suite": "1",
+        "city": "Plan",
+        "zipcode": "974506009",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "613240435",
+      "website": "José Luis Nunes Gómez. Contacto: 642519244",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe y Ribagoza ",
+        "catchPhrase": "Unidad pastoral de Aisa",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 15,
+      "name": "José Antonio Castán Ballarín",
+      "username": "Grupo Parroquial de Binefar",
+      "email": "joseacastan@hotmail.com",
+      "address": {
+        "street": "Casa Parroquial, C Maladeta, 5",
+        "suite": "1",
+        "city": "Binefar",
+        "zipcode": "José Antonio Castán Ballarín, Contacto:649534204",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "649534204",
+      "website": "",
+      "company": {
+        "name": "Archiprestazgo Cinca Medio - la Litera",
+        "catchPhrase": "Unidad pastoral de Binefar",
+        "bs": ". Contacto:"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Crisanto Antonio López Durango",
+      "username": "Grupo Parroquial de Monzón",
+      "email": "crialdo2525@gmail.com",
+      "address": {
+        "street": "Calle Joaquín Costa, 33",
+        "suite": "3°",
+        "city": "Monzon",
+        "zipcode": "974400880",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "643405377",
+      "website": "Crisanto Antonio López Durango, Contacto:643405377",
+      "company": {
+        "name": "Archiprestazgo Cinca Medio - la Litera",
+        "catchPhrase": "Unidad pastoral de Binefar",
+        "bs": "Crisanto Antonio López Durango. Contacto:974400880"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Antonio Vera Palomo",
+      "username": "Grupo Parroquial de Zaidín",
+      "email": "antoniovp2553@gmail.com",
+      "address": {
+        "street": "Plaza Constitución,4B",
+        "suite": "1° 1°",
+        "city": "Zaidin",
+        "zipcode": "974478178",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "660599737",
+      "website": "Jose María Huerva. Contacto:974427274",
+      "company": {
+        "name": "Archiprestazgo del Bajo Cinca",
+        "catchPhrase": "Unidad pastoral de Fraga",
+        "bs": "Jose María Huerva. Contacto:974427274"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Francisco Camón Gabín",
+      "username": "Grupo Parroquial Albelda",
+      "email": "fcocamon2@gmail.com",
+      "address": {
+        "street": "Calle Joaquín Costa, 33",
+        "suite": "3°",
+        "city": "Albelda",
+        "zipcode": "635149863",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "635149863",
+      "website": "Crisanto Antonio López Durango, Contacto:643405377",
+      "company": {
+        "name": "Archiprestazgo Cinca Medio - la Litera",
+        "catchPhrase": "Unidad pastoral de Binefar",
+        "bs": "Crisanto Antonio López Durango. Contacto:974400880"
       }
     }
   ]
