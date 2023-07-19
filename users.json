@@ -597,8 +597,8 @@
         "bs": ""
       }
     },
-     {
-      "id": 27,
+{
+      "id": 24,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
       "email": "restrepo.roberto@gmail.com",
@@ -612,8 +612,39 @@
           "lng": "81.1496"
         }
       },
-          {
-      "id": 28,
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },
+{
+      "id": 1,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Sopeira",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },
+{
+      "id": 1,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
       "email": "restrepo.roberto@gmail.com",
@@ -627,19 +658,102 @@
           "lng": "81.1496"
         }
       },
-       {
-      "id": ,
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },
+    {
+      "id": 1,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
       "email": "restrepo.roberto@gmail.com",
       "address": {
         "street": "Calle Escuelas 3",
         "suite": "Apt. 3C",
-        "city": "Sopeira",
+        "city": "Puente de Montañana",
         "zipcode": "974542025",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
         }
-      },   
+      },
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },
+    {
+      "id": 1,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Sapeira",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },{
+      "id": 1,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Litera",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },{
+      "id": 1,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Viacamp",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    }
   ]
