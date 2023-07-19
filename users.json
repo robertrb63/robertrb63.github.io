@@ -755,5 +755,28 @@
         "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
+    },
+    {
+      "id": 34,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Sobrecastel",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
     }
   ]
