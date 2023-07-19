@@ -54,7 +54,6 @@ const listUsers = async () => {
                     <td>${user.address.city}</td>
                     <td>${user.name}</td>
                     <td>${user.phone}</td>
-                    
                     <td>${user.email}</td>
                     <td>${user.company.catchPhrase}</td>
                     <td>${user.website}</td>
