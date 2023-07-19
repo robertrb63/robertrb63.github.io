@@ -596,5 +596,50 @@
         "catchPhrase": "a",
         "bs": ""
       }
-    }
+    },
+     {
+      "id": 27,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Santorens",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+          {
+      "id": 28,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Betesa",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+       {
+      "id": ,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Sopeira",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      }   
   ]
