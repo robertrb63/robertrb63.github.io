@@ -23,37 +23,37 @@
     },
     {
       "id": 2,
-      "name": "Luis Enrique Perea",
-      "username": "Grupo Parroquial de Albalate",
+      "name": "Jhon Mario Carmona Mona",
+      "username": "Grupo Parroquial de Ainsa",
       "email": "email",
       "address": {
-        "street": "Calle San Isidro 2",
-        "suite": "1 B",
-        "city": "Albalate",
-        "zipcode": "974469843",
+        "street": "Plan",
+        "suite": "",
+        "city": "Plan",
+        "zipcode": "613240435",
         "geo": {
           "lat": "-43.9509",
           "lng": "-34.4618"
         }
       },
-      "phone": "697833757",
-      "website": "Jose María Huerva. Contacto:974427274",
+      "phone": "613240435",
+      "website": "José Luis Nunez Gómez. Contacto:642519244",
       "company": {
-        "name": "Archiprestazgo del Bajo Cinca",
-        "catchPhrase": "Unidad Pastoral del Bajo Cinca",
-        "bs": "Jose María Huerva. Contacto:974427274"
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Pastoral de Ainza",
+        "bs": "Jhon Mario Carmona Mona. Contacto:6132404354"
       }
     },
     {
       "id": 3,
-      "name": "Roberto Antonio Restrepo Builes",
-      "username": "Grupo Parroquial de Arén",
-      "email": "restrepo.roberto@gmail.com",
+      "name": "Ruben Dario",
+      "username": "Grupo Parroquial de Monzón",
+      "email": "r@gmail.com",
       "address": {
-        "street": "Calle Escuelas 3",
-        "suite": "Apt. 3C",
-        "city": "Aren",
-        "zipcode": "974542025",
+        "street": "",
+        "suite": "",
+        "city": "Monzón",
+        "zipcode": "",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
@@ -764,6 +764,52 @@
         "street": "Calle Escuelas 3",
         "suite": "Apt. 3C",
         "city": "Sobrecastel",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "624083835",
+      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
+      }
+    },
+    {
+      "id": 35,
+      "name": "Luis Enrique Perea",
+      "username": "Grupo Parroquial de Albalate",
+      "email": "email",
+      "address": {
+        "street": "Calle San Isidro 2",
+        "suite": "1 B",
+        "city": "Albalate",
+        "zipcode": "974469843",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "697833757",
+      "website": "Jose María Huerva. Contacto:974427274",
+      "company": {
+        "name": "Archiprestazgo del Bajo Cinca",
+        "catchPhrase": "Unidad Pastoral del Bajo Cinca",
+        "bs": "Jose María Huerva. Contacto:974427274"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Aren",
         "zipcode": "974542025",
         "geo": {
           "lat": "-37.3159",
