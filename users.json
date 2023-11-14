@@ -161,14 +161,14 @@
     },
     {
       "id": 8,
-      "name": "José Ignacio Cardona ",
+      "name": "Juan Ignacio Cardona Orozco ",
       "username": "Grupo Parroquial de Graus",
       "email": "leonacho40@hotmail.com",
       "address": {
         "street": "Plaza Sn Miguel - #8",
         "suite": "Apt 1",
         "city": "Graus",
-        "zipcode": "974540728",
+        "zipcode": "974 54 07 28",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
@@ -546,7 +546,7 @@
       "website": "",
       "company": {
         "name": "Archipretazgo del Medio Cinca y Litera",
-        "catchPhrase": "a",
+        "catchPhrase": "Unidad Pastoral de Monzón",
         "bs": ""
       }
     },
@@ -575,7 +575,7 @@
     },
     {
       "id": 26,
-      "name": " ",
+      "name": " José Alejo Diaz ",
       "username": "Grupo Parroquial de Altorincón",
       "email": "email",
       "address": {
@@ -588,7 +588,7 @@
           "lng": ""
         }
       },
-      "phone": "",
+      "phone": "679 38 18 92",
       "website": "J:",
       "company": {
         "name": "Archipretazgo del Medio Cinca y Lietra",
@@ -823,5 +823,282 @@
         "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
+    },
+    {
+      "id": 37,
+      "name": "Juan Ignacio Cardona Orozco ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Torres del Obispo",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "616 38 98 07",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Juan Ignacio Cardona Orozco ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Perrarúa",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "616 38 98 07",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Juan Ignacio Cardona Orozco ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Luzás",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "616 38 98 07",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Juan Ignacio Cardona Orozco ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Beranuy",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "616 38 98 07",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 41,
+      "name": " ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "Lascuarre",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "616 38 98 07",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Jose Vidal Salazar Restrepo ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Capella",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "722 14 76 56",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Jose Vidal Salazar Restrepo ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Benabarre",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "722 14 76 56",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Jose Vidal Salazar Restrepo ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Tolva",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "722 14 76 56",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Jose Vidal Salazar Restrepo ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Cagigar",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "722 14 76 56",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Jose Vidal Salazar Restrepo ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Lasguarres",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "722 14 76 56",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Jose Vidal Salazar Restrepo ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Castigaleu",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "722 14 76 56",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 48,
+      "name": "Jose Vidal Salazar Restrepo ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "leonacho40@hotmail.com",
+      "address": {
+        "street": "Plaza Sn Miguel - #8",
+        "suite": "Apt 1",
+        "city": "Luzás",
+        "zipcode": "974 54 07 28",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "722 14 76 56",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
     }
+    
   ]
