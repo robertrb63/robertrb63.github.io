@@ -1,7 +1,7 @@
 [
     {
       "id": 1,"name": "Jose María Huerva",
-      "username": "Grupo Parroquial",
+      "username": "Grupo Parroquial Fraga",
       "email": "email",
       "address": {
         "street": "Plaza San Pedro, 1",
@@ -59,12 +59,12 @@
           "lng": "81.1496"
         }
       },
-      "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "phone": "",
+      "website": "Responsable Unidad",
       "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435 "
+        "name": "Archiprestazgo Medio Cinca y Litera",
+        "catchPhrase": "Unidad de Monzón",
+        "bs": " "
       }
     },
     {
@@ -175,7 +175,7 @@
         }
       },
       "phone": "616 38 98 07",
-      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -198,7 +198,7 @@
         }
       },
       "phone": "656377129",
-      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -221,7 +221,7 @@
         }
       },
       "phone": "615378116",
-      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -267,7 +267,7 @@
         }
       },
       "phone": "679381892",
-      "website": "Jesús Ignacio Cardona. Contacto: 616389807",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -545,7 +545,7 @@
       "phone": "",
       "website": "",
       "company": {
-        "name": "Archipretazgo de",
+        "name": "Archipretazgo del Medio Cinca y Litera",
         "catchPhrase": "a",
         "bs": ""
       }
@@ -568,7 +568,7 @@
       "phone": "",
       "website": "",
       "company": {
-        "name": "Archipretazgo del",
+        "name": "Archipretazgo del Medio Cinca y Litera",
         "catchPhrase": "a",
         "bs": ""
       }
@@ -591,8 +591,8 @@
       "phone": "",
       "website": "J:",
       "company": {
-        "name": "Archipretazgo de",
-        "catchPhrase": "a",
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
         "bs": ""
       }
     },
@@ -612,7 +612,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -635,7 +635,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -658,7 +658,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -681,7 +681,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -704,7 +704,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -726,7 +726,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -748,7 +748,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -771,7 +771,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
@@ -817,7 +817,7 @@
         }
       },
       "phone": "624083835",
-      "website": "Jesús Ignacio Cardona. Contacto: 616613174",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
