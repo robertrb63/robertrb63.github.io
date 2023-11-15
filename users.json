@@ -336,16 +336,16 @@
         }
       },
       "phone": "649534204",
-      "website": "",
+      "website": "Jose Antonio Castan Ballarin",
       "company": {
-        "name": "Archiprestazgo Cinca Medio - la Litera",
-        "catchPhrase": "Unidad pastoral de Binefar",
-        "bs": ". Contacto:"
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     },
     {
       "id": 16,
-      "name": "Crisanto Antonio López Durango",
+      "name": "Ruben Darío Sánchez Gómez",
       "username": "Grupo Parroquial de Monzón",
       "email": "crialdo2525@gmail.com",
       "address": {
@@ -358,12 +358,12 @@
           "lng": "-47.0653"
         }
       },
-      "phone": "643405377",
-      "website": "Crisanto Antonio López Durango, Contacto:643405377",
+      "phone": "",
+      "website": "Jose Antonio Castan Ballarin. Contacto: 643405377",
       "company": {
-        "name": "Archiprestazgo Cinca Medio - la Litera",
-        "catchPhrase": "Unidad pastoral de Binefar",
-        "bs": "Crisanto Antonio López Durango. Contacto:974400880"
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     },
     {
@@ -405,16 +405,16 @@
         }
       },
       "phone": "635149863",
-      "website": "Crisanto Antonio López Durango, Contacto:643405377",
+      "website": "Jose Antonio Castan Ballarin",
       "company": {
-        "name": "Archiprestazgo Cinca Medio - la Litera",
-        "catchPhrase": "Unidad pastoral de Binefar",
-        "bs": "Crisanto Antonio López Durango. Contacto:974400880"
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     },
     {
       "id": 19,
-      "name": " ",
+      "name": " Hennry Giraldo",
       "username": "Grupo Parroquial de Peñalba",
       "email": "email",
       "address": {
@@ -506,25 +506,25 @@
     },
     {
       "id": 23,
-      "name": " ",
+      "name": " Raul  Dago Rodriguez",
       "username": "Grupo Parroquial de Tamarite",
-      "email": "email",
+      "email": "raulquemado@gmail.com",
       "address": {
-        "street": "",
+        "street": "C/Bon Vehì, 1, 22550",
         "suite": "1",
-        "city": "Tamarite",
-        "zipcode": "  ",
+        "city": "Tamarite de Litera",
+        "zipcode": "974420116  ",
         "geo": {
-          "lat": "",
+          "lat": "Unidad Pastoral de Binefar",
           "lng": ""
         }
       },
-      "phone": "",
-      "website": "J",
+      "phone": "645659963",
+      "website": "Jose Antonio Castan Ballarin",
       "company": {
-        "name": "Archipretazgo de",
-        "catchPhrase": "a",
-        "bs": ""
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     },
     {
@@ -566,11 +566,11 @@
         }
       },
       "phone": "",
-      "website": "",
+      "website": "Jose Antonio Castan Ballarin",
       "company": {
-        "name": "Archipretazgo del Medio Cinca y Litera",
-        "catchPhrase": "a",
-        "bs": ""
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     },
     {
@@ -589,11 +589,11 @@
         }
       },
       "phone": "679 38 18 92",
-      "website": "J:",
+      "website": "Jose Antonio Castan Ballarin",
       "company": {
         "name": "Archipretazgo del Medio Cinca y Lietra",
         "catchPhrase": "Unidad Pastoral de Binefar",
-        "bs": ""
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     },
 {
