@@ -20,51 +20,5 @@
         "catchPhrase": "Unidad pastoral de Fraga",
         "bs": "Jose María Huerva. Contacto:974427274"
       }
-    },
-    {
-      "id": 2,
-      "name": "Jhon Mario Carmona Mona",
-      "username": "Grupo Parroquial de Ainsa",
-      "email": "email",
-      "address": {
-        "street": "Plan",
-        "suite": "",
-        "city": "Plan",
-        "zipcode": "613240435",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }
-      },
-      "phone": "613240435",
-      "website": "José Luis Nunez Gómez. Contacto:642519244",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Pastoral de Ainza",
-        "bs": "Jhon Mario Carmona Mona. Contacto:6132404354"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Ruben Dario Sánchez Gómez",
-      "username": "Grupo Parroquial de Monzón",
-      "email": "   @gmail.com",
-      "address": {
-        "street": "",
-        "suite": "",
-        "city": "Monzón",
-        "zipcode": "974400080",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "6823411583",
-      "website": "Oscar Vives G- Contacto 696 3728 90 ",
-      "company": {
-        "name": "Archiprestazgo Medio Cinca y Litera",
-        "catchPhrase": "Unidad de Monzón",
-        "bs": " Jose Antonio Castán B. Contacto:649534204"
-      }
     }
 ]
