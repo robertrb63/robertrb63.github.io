@@ -59,12 +59,12 @@
           "lng": "81.1496"
         }
       },
-      "phone": "",
-      "website": "Responsable Unidad",
+      "phone": "6823411583",
+      "website": "Oscar Vives G- Contacto 696 3728 90 ",
       "company": {
         "name": "Archiprestazgo Medio Cinca y Litera",
         "catchPhrase": "Unidad de Monzón",
-        "bs": " "
+        "bs": " Jose Antonio Castán B. Contacto:649534204"
       }
     },
     {
@@ -483,7 +483,7 @@
     },
     {
       "id": 22,
-      "name": " ",
+      "name": " Mosen Jaime",
       "username": "Grupo Parroquial de Barbastro",
       "email": "email",
       "address": {
@@ -496,12 +496,12 @@
           "lng": ""
         }
       },
-      "phone": "",
+      "phone": "679929215",
       "website": "",
       "company": {
         "name": "Archipretazgo del",
-        "catchPhrase": "Unidad pastoral ",
-        "bs": ""
+        "catchPhrase": "Unidad pastoral Barbastro ",
+        "bs": "Mosen Omar. "
       }
     },
     {
@@ -552,21 +552,21 @@
     },
     {
       "id": 25,
-      "name": " ",
+      "name": "Wilson Desiderio Paez Botia",
       "username": "Grupo Parroquial de Binaced",
-      "email": "email",
+      "email": "wildepabo@gmail.com",
       "address": {
-        "street": "",
-        "suite": "1",
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
         "city": "Binaced",
-        "zipcode": "  ",
+        "zipcode": "974427274",
         "geo": {
           "lat": "",
           "lng": ""
         }
       },
-      "phone": "",
-      "website": "Jose Antonio Castan Ballarin",
+      "phone": "641120176",
+      "website": "Oscar Vives G. Contacto:696372890",
       "company": {
         "name": "Archipretazgo del Medio Cinca y Lietra",
         "catchPhrase": "Unidad Pastoral de Binefar",
@@ -1098,6 +1098,190 @@
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Wilson Desiderio Paez Botia",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "wildepabo@gmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Valcarca",
+        "zipcode": "974427274",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "641120176",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Wilson Desiderio Paez Botia",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "wildepabo@gmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Alfántega",
+        "zipcode": "974427274",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "641120176",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Wilson Desiderio Paez Botia",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "wildepabo@gmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Almunia de San Juan",
+        "zipcode": "974427274",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "641120176",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Oscar Vives Gallardo",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "wildepabo@gmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Pueyo de la Santa Cruz",
+        "zipcode": "974400080",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "696372890",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Oscar Vives Gallardo",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "wildepabo@gmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Conchel",
+        "zipcode": "974400080",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "696372890",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Oscar Vives Gallardo",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "wildepabo@gmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Ilche",
+        "zipcode": "974400080",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "696372890",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Oscar Vives Gallardo",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "wildepabo@gmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Selgua",
+        "zipcode": "974400080",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "696372890",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Oscar Vives Gallardo",
+      "username": "Grupo Parroquial de Binaced",
+      "email": "osviga1978@holtmail.com",
+      "address": {
+        "street": "Calle Albalate 2, 2",
+        "suite": "4",
+        "city": "Castejón del Puente",
+        "zipcode": "974400080",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "696372890",
+      "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     }
     
