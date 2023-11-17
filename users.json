@@ -46,14 +46,14 @@
     },
     {
       "id": 3,
-      "name": "Ruben Dario",
+      "name": "Ruben Dario Sánchez Gómez",
       "username": "Grupo Parroquial de Monzón",
-      "email": "r@gmail.com",
+      "email": "   @gmail.com",
       "address": {
         "street": "",
         "suite": "",
         "city": "Monzón",
-        "zipcode": "",
+        "zipcode": "974400080",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
@@ -345,20 +345,20 @@
     },
     {
       "id": 16,
-      "name": "Ruben Darío Sánchez Gómez",
-      "username": "Grupo Parroquial de Monzón",
-      "email": "crialdo2525@gmail.com",
+      "name": "José Alejo Diaz",
+      "username": "Grupo Parroquial de Binerar",
+      "email": "sejolea@yahoo.com",
       "address": {
         "street": "Calle Joaquín Costa, 33",
         "suite": "3°",
-        "city": "Monzon",
+        "city": "Esplús",
         "zipcode": "974400880",
         "geo": {
           "lat": "-68.6102",
           "lng": "-47.0653"
         }
       },
-      "phone": "",
+      "phone": "679381892",
       "website": "Jose Antonio Castan Ballarin. Contacto: 643405377",
       "company": {
         "name": "Archipretazgo del Medio Cinca y Lietra",
@@ -1278,6 +1278,29 @@
       },
       "phone": "696372890",
       "website": "Oscar Vives G. Contacto:696372890",
+      "company": {
+        "name": "Archipretazgo del Medio Cinca y Lietra",
+        "catchPhrase": "Unidad Pastoral de Binefar",
+        "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+      }
+    },
+    {
+      "id": 57,
+      "name": "José Antonio Castán Ballarín",
+      "username": "Grupo Parroquial de Binefar",
+      "email": "joseacastan@hotmail.com",
+      "address": {
+        "street": "Casa Parroquial, C Maladeta, 5",
+        "suite": "1",
+        "city": "San Esteban de Litera",
+        "zipcode": "José Antonio Castán Ballarín, Contacto:649534204",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "649534204",
+      "website": "Jose Antonio Castan Ballarin",
       "company": {
         "name": "Archipretazgo del Medio Cinca y Lietra",
         "catchPhrase": "Unidad Pastoral de Binefar",
