@@ -596,7 +596,7 @@
         "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
       }
     },
-{
+    {
       "id": 27,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
@@ -619,7 +619,7 @@
         "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
     },
-{
+    {
       "id": 28,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
@@ -642,7 +642,7 @@
         "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
     },
-{
+    {
       "id": 29,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
@@ -710,7 +710,8 @@
         "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
-    },{
+    },
+    {
       "id": 32,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
@@ -732,7 +733,8 @@
         "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
-    },{
+    },
+    {
       "id": 33,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
@@ -753,7 +755,8 @@
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435 "
-      },{
+      },
+        {
       "id": 34,
       "name": "Roberto Antonio Restrepo Builes",
       "username": "Grupo Parroquial de Arén",
