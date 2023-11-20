@@ -1,6 +1,10 @@
 let dataTable;
 let dataTableIsInitialized = false;
-
+ style{
+     h1{
+         color:red;
+     }
+ }
 const dataTableOptions = {
     //scrollX: "2000px",
     lengthMenu: [5, 10, 15, 20, 100, 200],
