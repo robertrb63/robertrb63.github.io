@@ -31,3 +31,7 @@ background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, F
     width: 90%;
     margin: auto;
 }
+
+h1{
+    color: red
+}
