@@ -1012,21 +1012,21 @@
       }
     },
     {
-      "id": 45,
-      "name": "Jose Vidal Salazar Restrepo ",
+       "id": 45,
+      "name": "Laureano Monclús Solanilla ",
       "username": "Grupo Parroquial de Graus",
-      "email": "leonacho40@hotmail.com",
+      "email": "",
       "address": {
-        "street": "Plaza Sn Miguel - #8",
-        "suite": "Apt 1",
-        "city": "Cagigar",
-        "zipcode": "974 54 07 28",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "San Aventin",
+        "zipcode": "974 34 71 28",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
         }
       },
-      "phone": "722 14 76 56",
+      "phone": "974 34 71 28",
       "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
@@ -1058,21 +1058,21 @@
       }
     },
     {
-      "id": 47,
-      "name": "Jose Vidal Salazar Restrepo ",
+       "id": 47,
+      "name": "Laureano Monclús Solanilla ",
       "username": "Grupo Parroquial de Graus",
-      "email": "leonacho40@hotmail.com",
+      "email": "",
       "address": {
-        "street": "Plaza Sn Miguel - #8",
-        "suite": "Apt 1",
-        "city": "Castigaleu",
-        "zipcode": "974 54 07 28",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "La Torre",
+        "zipcode": "974 34 71 28",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
         }
       },
-      "phone": "722 14 76 56",
+      "phone": "974 34 71 28",
       "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
@@ -1840,26 +1840,26 @@
       }
     },
     {
-      "id": 81,
-      "name": "José Vidal Salazar",
-      "username": "Grupo Parroquial de Boltaña",
-      "email": "email",
+       "id": 81,
+      "name": "Laureano Monclús Solanilla ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "",
       "address": {
-        "street": "Calle Fallás, 6",
-        "suite": "1",
-        "city": "El soler",
-        "zipcode": "974 54 07 28",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "Bralláns",
+        "zipcode": "974 34 71 28",
         "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
+          "lat": "-37.3159",
+          "lng": "81.1496"
         }
       },
-      "phone":"616 38 98 07",
+      "phone": "974 34 71 28",
       "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
+        "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
     {
@@ -2507,7 +2507,7 @@
       }
     },
         {
-        "id": 80,
+        "id": 111,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2530,7 +2530,7 @@
         }
         },
         {
-        "id": 81,
+        "id": 112,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2553,7 +2553,7 @@
         }
         },
         {
-        "id": 82,
+        "id": 113,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2576,7 +2576,7 @@
         }
         },
         {
-        "id": 83,
+        "id": 114,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2599,7 +2599,7 @@
         }
         },
         {
-        "id": 84,
+        "id": 115,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2622,7 +2622,7 @@
         }
         },
         {
-        "id": 85,
+        "id": 116,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2645,7 +2645,7 @@
         }
         },
         {
-        "id": 86,
+        "id": 117,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2668,7 +2668,7 @@
         }
         },
         {
-        "id": 87,
+        "id": 118,
         "name": "José Vidal Salazar",
         "username": "Grupo Parroquial de Boltaña",
         "email": "email",
@@ -2691,7 +2691,7 @@
         }
         },
         {
-        "id": 88,
+        "id": 119,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2714,7 +2714,7 @@
         }
         },
         {
-        "id": 89,
+        "id": 120,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2737,7 +2737,7 @@
         }
         },
         {
-        "id": 90,
+        "id": 121,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2760,7 +2760,7 @@
         }
         },
         {
-        "id": 91,
+        "id": 122,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2783,7 +2783,7 @@
         }
         },
         {
-        "id": 92,
+        "id": 123,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2806,7 +2806,7 @@
         }
         },
         {
-        "id": 93,
+        "id": 124,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2829,7 +2829,7 @@
         }
         },
         {
-        "id": 94,
+        "id": 125,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2852,7 +2852,7 @@
         }
         },
         {
-        "id": 95,
+        "id": 126,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2875,7 +2875,7 @@
         }
         },
         {
-        "id": 96,
+        "id": 127,
         "name": "Aurelio Ricau SanJuan",
         "username": "Grupo Parroquial de Roda de Isábena",
         "email": "",
@@ -2898,7 +2898,7 @@
         }
         },
         {
-        "id": 97,
+        "id": 128,
         "name": " Mosen Jaime",
         "username": "Grupo Parroquial de Barbastro",
         "email": "email",
@@ -2921,7 +2921,7 @@
         }
         },
         {
-        "id": 99,
+        "id": 129,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -2944,7 +2944,7 @@
         }
         },
         {
-        "id": 100,
+        "id": 130,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -2967,7 +2967,7 @@
         }
         },
         {
-        "id": 101,
+        "id": 131,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -2990,7 +2990,7 @@
         }
         },
         {
-        "id": 102,
+        "id": 132,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3013,7 +3013,7 @@
         }
         },
         {
-        "id": 103,
+        "id": 133,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3036,7 +3036,7 @@
         }
         },
         {
-        "id": 104,
+        "id": 134,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3059,7 +3059,7 @@
         }
         },
         {
-        "id": 105,
+        "id": 135,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3082,7 +3082,7 @@
         }
         },
         {
-        "id": 106,
+        "id": 136,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3105,7 +3105,7 @@
         }
         },
         {
-        "id": 107,
+        "id": 137,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3128,7 +3128,7 @@
         }
         },
         {
-        "id": 108,
+        "id": 138,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3151,7 +3151,7 @@
         }
         },
         {
-        "id": 109,
+        "id": 139,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3174,7 +3174,7 @@
         }
         },
         {
-        "id":110,
+        "id":140,
         "name": "José Luis Pueyo Jiménez",
         "username": "Grupo Parroquial de Campo",
         "email": "joseluispueyo10@gmail.com",
@@ -3197,7 +3197,7 @@
         }
         },
     {
-      "id": 140,
+      "id": 141,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3220,7 +3220,7 @@
       }
     },
     {
-      "id":141,
+      "id":142,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3243,7 +3243,7 @@
       }
     },
     {
-      "id": 142,
+      "id": 143,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3266,7 +3266,7 @@
       }
     },
     {
-      "id":143,
+      "id":144,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3289,30 +3289,30 @@
       }
     },
     {
-      "id": 144,
-      "name": "Luis Parada Carrillo",
-      "username": "Grupo Parroquial de Castejón del Sos",
-      "email": "luisparada2020@gmail.com",
+       "id":145,
+      "name": "Laureano Monclús Solanilla ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "",
       "address": {
-        "street": "Conde de Barcelona, 2",
-        "suite": "1",
-        "city": "Castanesa",
-        "zipcode": "690067793",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "Magarrofas",
+        "zipcode": "974 34 71 28",
         "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
+          "lat": "-37.3159",
+          "lng": "81.1496"
         }
       },
-      "phone": "690067793",
-      "website": "Luis Edbin Rubiano López: 646753174",
+      "phone": "974 34 71 28",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
-        "name": "Archipretazgo Sobrarbe y Ribagoza ",
-        "catchPhrase": "Unidad pastoral de Benasque",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
     {
-      "id": 145,
+      "id": 146,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3335,7 +3335,7 @@
       }
     },
     {
-      "id": 146,
+      "id": 147,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3358,7 +3358,7 @@
       }
     },
     {
-      "id": 147,
+      "id": 148,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3381,7 +3381,7 @@
       }
     },
     {
-      "id": 148,
+      "id": 149,
       "name": "Luis Parada Carrillo",
       "username": "Grupo Parroquial de Castejón del Sos",
       "email": "luisparada2020@gmail.com",
@@ -3841,48 +3841,48 @@
       }
     },
     {
-      "id": 169 ,
-      "name": "José Luis Nunes Gómez",
-      "username": "Grupo Parroquial de Ainsa",
-      "email": "joselng@hotmail.com",
+       "id": 169,
+      "name": "Laureano Monclús Solanilla ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "",
       "address": {
-        "street": "Calle Mayor 23",
-        "suite": "1",
-        "city": " Puértolas",
-        "zipcode": "",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "Villa",
+        "zipcode": "974 34 71 28",
         "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
+          "lat": "-37.3159",
+          "lng": "81.1496"
         }
       },
-      "phone": "642519244",
-      "website": "José Luis Nunes Gómez. Contacto: 642519244",
+      "phone": "974 34 71 28",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
-        "name": "Archiprestazgo Sobrarbe y Ribagoza ",
-        "catchPhrase": "Unidad pastoral de Aisa",
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
     {
-      "id": 170 ,
-      "name": "José Luis Nunes Gómez",
-      "username": "Grupo Parroquial de Ainsa",
-      "email": "joselng@hotmail.com",
+       "id": 170,
+      "name": "Laureano Monclús Solanilla ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "",
       "address": {
-        "street": "Calle Mayor 23",
-        "suite": "1",
-        "city": "Abizanda ",
-        "zipcode": "",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "Villacardi",
+        "zipcode": "974 34 71 28",
         "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
+          "lat": "-37.3159",
+          "lng": "81.1496"
         }
       },
-      "phone": "642519244",
-      "website": "José Luis Nunes Gómez. Contacto: 642519244",
+      "phone": "974 34 71 28",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
-        "name": "Archiprestazgo Sobrarbe y Ribagoza ",
-        "catchPhrase": "Unidad pastoral de Aisa",
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
@@ -4644,143 +4644,5 @@
         "catchPhrase": "Unidad Patoral de Graus",
         "bs": "Jhon Mario Moná. Contacto:613240435"
       }
-    },
-    {
-       "id": 204,
-      "name": "Laureano Monclús Solanilla ",
-      "username": "Grupo Parroquial de Graus",
-      "email": "",
-      "address": {
-        "street": "Calle Carrera A-1605, Klmt 39,9 ",
-        "suite": "22484",
-        "city": "Bralláns",
-        "zipcode": "974 34 71 28",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "974 34 71 28",
-      "website": "Juan Ignacio Cardona. Contacto: 616613174",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
-      }
-    },
-    {
-       "id": 205,
-      "name": "Laureano Monclús Solanilla ",
-      "username": "Grupo Parroquial de Graus",
-      "email": "",
-      "address": {
-        "street": "Calle Carrera A-1605, Klmt 39,9 ",
-        "suite": "22484",
-        "city": "La Torre",
-        "zipcode": "974 34 71 28",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "974 34 71 28",
-      "website": "Juan Ignacio Cardona. Contacto: 616613174",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
-      }
-    },
-    {
-       "id":206,
-      "name": "Laureano Monclús Solanilla ",
-      "username": "Grupo Parroquial de Graus",
-      "email": "",
-      "address": {
-        "street": "Calle Carrera A-1605, Klmt 39,9 ",
-        "suite": "22484",
-        "city": "Magarrofas",
-        "zipcode": "974 34 71 28",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "974 34 71 28",
-      "website": "Juan Ignacio Cardona. Contacto: 616613174",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
-      }
-    },
-    {
-       "id": 207,
-      "name": "Laureano Monclús Solanilla ",
-      "username": "Grupo Parroquial de Graus",
-      "email": "",
-      "address": {
-        "street": "Calle Carrera A-1605, Klmt 39,9 ",
-        "suite": "22484",
-        "city": "San Aventin",
-        "zipcode": "974 34 71 28",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "974 34 71 28",
-      "website": "Juan Ignacio Cardona. Contacto: 616613174",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
-      }
-    },
-    {
-       "id": 208,
-      "name": "Laureano Monclús Solanilla ",
-      "username": "Grupo Parroquial de Graus",
-      "email": "",
-      "address": {
-        "street": "Calle Carrera A-1605, Klmt 39,9 ",
-        "suite": "22484",
-        "city": "Villa",
-        "zipcode": "974 34 71 28",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "974 34 71 28",
-      "website": "Juan Ignacio Cardona. Contacto: 616613174",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
-      }
-    },
-    {
-       "id": 209,
-      "name": "Laureano Monclús Solanilla ",
-      "username": "Grupo Parroquial de Graus",
-      "email": "",
-      "address": {
-        "street": "Calle Carrera A-1605, Klmt 39,9 ",
-        "suite": "22484",
-        "city": "Villacardi",
-        "zipcode": "974 34 71 28",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "974 34 71 28",
-      "website": "Juan Ignacio Cardona. Contacto: 616613174",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
-      }
     }
-]
+],
