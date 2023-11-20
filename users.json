@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "name": "Jhon Mario Carmona Mona",
+      "name": "Jhon Mario Mona Carvajal",
       "username": "Grupo Parroquial de Ainsa",
       "email": "email",
       "address": {
@@ -115,13 +115,13 @@
     },
     {
       "id": 6,
-      "name": "José Vidal Salazar",
+      "name": "Jhon Mario Moná Carvajal",
       "username": "Grupo Parroquial de Boltaña",
       "email": "email",
       "address": {
         "street": "Calle Fallás, 6",
         "suite": "1",
-        "city": "Boltaña",
+        "city": "Bielsa",
         "zipcode": "974502005",
         "geo": {
           "lat": "-68.6102",
@@ -133,6 +133,7 @@
       "company": {
         "name": "Archipretazgo Sobrarbe y Ribagoza ",
         "catchPhrase": "Unidad pastoral de Aisa",
+        "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
         "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
       }
     },
@@ -183,26 +184,26 @@
       }
     },
     {
-      "id": 9,
-      "name": "Edinson Giraldo",
-      "username": "Grupo Parroquial de Benavarre",
-      "email": "@gmail.com",
+       "id":9,
+      "name": "Laureano Monclús Solanilla ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "",
       "address": {
-        "street": "Plaza Sn Miguel - #8",
-        "suite": "Apt 1",
-        "city": "Benabarre",
-        "zipcode": "974 54 07 28",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "Bisalibóns",
+        "zipcode": "974 34 71 28",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
         }
       },
-      "phone": "656377129",
+      "phone": "974 34 71 28",
       "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435 "
+        "bs": "Jhon Mario Moná. Contacto:613240435"
       }
     },
     {
@@ -298,26 +299,26 @@
       }
     },
     {
-      "id": 14,
+     "id": 14,
       "name": "Jhon Mario Moná Carvajal",
-      "username": "Grupo Parroquial de Plan",
-      "email": "johnmoncar@gmail.com",
+      "username": "Grupo Parroquial de Boltaña",
+      "email": "email",
       "address": {
-        "street": "Calle Iglesia",
+        "street": "Calle Fallás, 6",
         "suite": "1",
-        "city": "Plan",
-        "zipcode": "974506009",
+        "city": "Javierre",
+        "zipcode": "974502005",
         "geo": {
           "lat": "-68.6102",
           "lng": "-47.0653"
         }
       },
-      "phone": "613240435",
+      "phone": "640797320",
       "website": "José Luis Nunes Gómez. Contacto: 642519244",
       "company": {
-        "name": "Archiprestazgo Sobrarbe y Ribagoza ",
+        "name": "Archipretazgo Sobrarbe y Ribagoza ",
         "catchPhrase": "Unidad pastoral de Aisa",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
+        "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
       }
     },
     {
@@ -1586,28 +1587,27 @@
       }
     },
     {
-      "id": 70,
-      "name": "José Vidal Salazar",
-      "username": "Grupo Parroquial de Boltaña",
-      "email": "email",
+       "id":70,
+      "name": "Laureano Monclús Solanilla ",
+      "username": "Grupo Parroquial de Graus",
+      "email": "",
       "address": {
-        "street": "Calle Fallás, 6",
-        "suite": "1",
-        "city": "Benabarre",
-        "zipcode": "974 54 07 28",
+        "street": "Calle Carrera A-1605, Klmt 39,9 ",
+        "suite": "22484",
+        "city": "Bisalibóns",
+        "zipcode": "974 34 71 28",
         "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
+          "lat": "-37.3159",
+          "lng": "81.1496"
         }
       },
-      "phone":"616 38 98 07",
+      "phone": "974 34 71 28",
       "website": "Juan Ignacio Cardona. Contacto: 616613174",
       "company": {
         "name": "Archiprestazgo Sobrarbe-Ribagorza",
         "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
-      }
-    },
+        "bs": "Jhon Mario Moná. Contacto:613240435"
+      },
     {
       "id": 71,
       "name": "José Vidal Salazar",
@@ -4769,29 +4769,6 @@
         "street": "Calle Carrera A-1605, Klmt 39,9 ",
         "suite": "22484",
         "city": "Villacardi",
-        "zipcode": "974 34 71 28",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "974 34 71 28",
-      "website": "Juan Ignacio Cardona. Contacto: 616613174",
-      "company": {
-        "name": "Archiprestazgo Sobrarbe-Ribagorza",
-        "catchPhrase": "Unidad Patoral de Graus",
-        "bs": "Jhon Mario Moná. Contacto:613240435"
-      }
-    },
-    {
-       "id":210,
-      "name": "Laureano Monclús Solanilla ",
-      "username": "Grupo Parroquial de Graus",
-      "email": "",
-      "address": {
-        "street": "Calle Carrera A-1605, Klmt 39,9 ",
-        "suite": "22484",
-        "city": "Bisalibóns",
         "zipcode": "974 34 71 28",
         "geo": {
           "lat": "-37.3159",
