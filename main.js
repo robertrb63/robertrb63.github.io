@@ -6,7 +6,7 @@ const dataTableOptions = {
     lengthMenu: [5, 10, 15, 20, 100, 200],
     columnDefs: [
         { className: "centered", targets: [0, 1, 2, 3, 4, 5, 6, 7] },
-        { orderable: false, targets: [5, 6,7] },
+        { orderable: false, targets: [3, 4, 6,7] },
         { searchable: false, targets: [2] }
         //{ width: "50%", targets: [0] }
     ],
