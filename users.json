@@ -3474,24 +3474,24 @@
         },
         {
           "id": 153,
-          "name": "Roberto Antonio Restrepo Builes",
-          "username": "Grupo Parroquial de Arén",
-          "email": "restrepo.roberto@gmail.com",
+          "name": "Luis Parada Carrillo",
+          "username": "Grupo Parroquial de Castejón del Sos",
+          "email": "luisparada2020@gmail.com",
           "address": {
-            "street": "Calle Escuelas 3, 3D",
+            "street": "Conde de Barcelona, 2",
             "suite": "1",
             "city": "Ginasté",
-            "zipcode": "624083835,
+            "zipcode": "690067793",
             "geo": {
               "lat": "-68.6102",
               "lng": "-47.0653"
             }
           },
-          "phone": "624083835",
-          "website": "Juan Ignacio Cardona: 616613174 ",
+          "phone": "690067793",
+          "website": "Luis Edbin Rubiano López: 646753174",
           "company": {
             "name": "Archipretazgo Sobrarbe y Ribagoza ",
-            "catchPhrase": "Unidad pastoral de Graus",
+            "catchPhrase": "Unidad pastoral de Benasque",
             "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
           }
         },
@@ -3514,7 +3514,7 @@
           "website": "Juan Ignacion Cardona: 616613174",
           "company": {
             "name": "Archipretazgo Sobrarbe y Ribagoza ",
-            "catchPhrase": "Unidad pastoral de Graus",
+            "catchPhrase": "Unidad pastoral de Benasque",
             "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
           }
         },
@@ -3543,24 +3543,24 @@
         },
         {
           "id": 156,
-          "name": "Roberto Antonio Restrepo Builes",
-          "username": "Grupo Parroquial de Arén",
-          "email": "restrepo.roberto@gmail.com",
+          "name": "Luis Parada Carrillo",
+          "username": "Grupo Parroquial de Castejón del Sos",
+          "email": "luisparada2020@gmail.com",
           "address": {
-            "street": "Calle Escuelas 3. 3D",
+            "street": "Conde de Barcelona, 2",
             "suite": "1",
             "city": "Estet",
-            "zipcode": "624083835",
+            "zipcode": "690067793",
             "geo": {
               "lat": "-68.6102",
               "lng": "-47.0653"
             }
           },
           "phone": "690067793",
-          "website": "Jesús Ignacio Cardona: 616613174",
+          "website": "Luis Edbin Rubiano López: 646753174",
           "company": {
             "name": "Archipretazgo Sobrarbe y Ribagoza ",
-            "catchPhrase": "Unidad pastoral de Graus",
+            "catchPhrase": "Unidad pastoral de Benasque",
             "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
           }
         },
@@ -5380,28 +5380,5 @@
         "catchPhrase": "Unidad pastoral de Fraga",
         "bs": "Jose María Huerva. Contacto:974 42 72 74"
       }
-    },
-        {
-          "id": 234,
-          "name": "Roberto Antonio Restrepo Builes",
-          "username": "Grupo Parroquial de Arén",
-          "email": "restrepo.roberto@gmail.com",
-          "address": {
-            "street": "Calle Escuelas, 3, 3d",
-            "suite": "1",
-            "city": "Aneto",
-            "zipcode": "",
-            "geo": {
-              "lat": "-68.6102",
-              "lng": "-47.0653"
-            }
-          },
-          "phone": "624083835",
-          "website": "Juan Ignacion Cardona: 616613174",
-          "company": {
-            "name": "Archipretazgo Sobrarbe y Ribagoza ",
-            "catchPhrase": "Unidad pastoral de Graus",
-            "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
-          }
-        }
+    }
   ]
