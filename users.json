@@ -37,7 +37,7 @@
             }
           },
           "phone": "613240435",
-          "website": "José Luis Nunez Gómez. Contacto:642519244",
+          "website": "Jhon Mario Carmona Mona",
           "company": {
             "name": "Archiprestazgo Sobrarbe-Ribagorza",
             "catchPhrase": "Unidad Pastoral de Ainza",
@@ -115,7 +115,7 @@
         },
         {
           "id": 6,
-          "name": "José Vidal Salazar",
+          "name": "Darinson Melendez",
           "username": "Grupo Parroquial de Boltaña",
           "email": "email",
           "address": {
@@ -128,7 +128,7 @@
               "lng": "-47.0653"
             }
           },
-          "phone": "640797320",
+          "phone": "662 06 72 85",
           "website": "Jhon Mario Moná",
           "company": {
             "name": "Archipretazgo Sobrarbe y Ribagoza ",
@@ -391,20 +391,20 @@
         },
         {
           "id": 18,
-          "name": "Francisco Camón Gabín",
+          "name": "Alvaro Leal A",
           "username": "Grupo Parroquial Albelda",
-          "email": "fcocamon2@gmail.com",
+          "email": "@gmail.com",
           "address": {
             "street": "Calle Joaquín Costa, 33",
             "suite": "3°",
             "city": "Albelda",
-            "zipcode": "635149863",
+            "zipcode": "",
             "geo": {
               "lat": "-68.6102",
               "lng": "-47.0653"
             }
           },
-          "phone": "635149863",
+          "phone": "642219895",
           "website": "Jose Antonio Castan Ballarin",
           "company": {
             "name": "Archipretazgo del Medio Cinca y Lietra",
@@ -575,20 +575,20 @@
         },
         {
           "id": 26,
-          "name": " ",
-          "username": "Grupo Parroquial de Altorincón",
-          "email": "email",
+          "name": "Alvaro Leal A",
+          "username": "Grupo Parroquial Albelda",
+          "email": "@gmail.com",
           "address": {
-            "street": "",
-            "suite": "1",
-            "city": "Altorincon",
-            "zipcode": "  ",
+            "street": "Calle Joaquín Costa, 33",
+            "suite": "3°",
+            "city": "Altorincón",
+            "zipcode": "",
             "geo": {
-              "lat": "",
-              "lng": ""
+              "lat": "-68.6102",
+              "lng": "-47.0653"
             }
           },
-          "phone": "679 38 18 92",
+          "phone": "642219895",
           "website": "Jose Antonio Castan Ballarin",
           "company": {
             "name": "Archipretazgo del Medio Cinca y Lietra",
@@ -1311,20 +1311,20 @@
         },
         {
           "id": 58,
-          "name": "Francisco Camón Gabín",
+          "name": "Alvaro Leal A",
           "username": "Grupo Parroquial Albelda",
-          "email": "fcocamon2@gmail.com",
+          "email": "@gmail.com",
           "address": {
             "street": "Calle Joaquín Costa, 33",
             "suite": "3°",
             "city": "Baells",
-            "zipcode": "635149863",
+            "zipcode": "",
             "geo": {
               "lat": "-68.6102",
               "lng": "-47.0653"
             }
           },
-          "phone": "635149863",
+          "phone": "642219895",
           "website": "Jose Antonio Castan Ballarin",
           "company": {
             "name": "Archipretazgo del Medio Cinca y Lietra",
@@ -1334,20 +1334,20 @@
         },
         {
           "id":59,
-          "name": "Francisco Camón Gabín",
+          "name": "Alvaro Leal A",
           "username": "Grupo Parroquial Albelda",
-          "email": "fcocamon2@gmail.com",
+          "email": "@gmail.com",
           "address": {
             "street": "Calle Joaquín Costa, 33",
             "suite": "3°",
             "city": "Nache",
-            "zipcode": "635149863",
+            "zipcode": "",
             "geo": {
               "lat": "-68.6102",
               "lng": "-47.0653"
             }
           },
-          "phone": "635149863",
+          "phone": "642219895",
           "website": "Jose Antonio Castan Ballarin",
           "company": {
             "name": "Archipretazgo del Medio Cinca y Lietra",
@@ -1357,20 +1357,20 @@
         },
         {
           "id": 60,
-          "name": "Francisco Camón Gabín",
+          "name": "Alvaro Leal A",
           "username": "Grupo Parroquial Albelda",
-          "email": "fcocamon2@gmail.com",
+          "email": "@gmail.com",
           "address": {
             "street": "Calle Joaquín Costa, 33",
             "suite": "3°",
             "city": "Zurita",
-            "zipcode": "635149863",
+            "zipcode": "",
             "geo": {
               "lat": "-68.6102",
               "lng": "-47.0653"
             }
           },
-          "phone": "635149863",
+          "phone": "642219895",
           "website": "Jose Antonio Castan Ballarin",
           "company": {
             "name": "Archipretazgo del Medio Cinca y Lietra",
@@ -5379,6 +5379,29 @@
         "name": "Archipretazgo del Bajo Cinca",
         "catchPhrase": "Unidad pastoral de Fraga",
         "bs": "Jose María Huerva. Contacto:974 42 72 74"
+      }
+    },
+    {
+      "id": 234,
+      "name": "Roberto Antonio Restrepo Builes",
+      "username": "Grupo Parroquial de Arén",
+      "email": "restrepo.roberto@gmail.com",
+      "address": {
+        "street": "Calle Escuelas 3",
+        "suite": "Apt. 3C",
+        "city": "Aneto",
+        "zipcode": "974542025",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "624083835",
+      "website": "Juan Ignacio Cardona. Contacto: 616613174",
+      "company": {
+        "name": "Archiprestazgo Sobrarbe-Ribagorza",
+        "catchPhrase": "Unidad Patoral de Graus",
+        "bs": "Jhon Mario Moná. Contacto:613240435 "
       }
     }
   ]
