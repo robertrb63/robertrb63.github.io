@@ -5401,6 +5401,29 @@
       "name": "Archipretazgo del Bajo Cinca",
       "catchPhrase": "Unidad pastoral de Fraga",
       "bs": "Jose María Huerva. Contacto:974 42 72 74"
+    },
+    {
+    "id": 235,
+    "name": "Roberto Antonio Restrepo Builes",
+    "username": "Grupo Parroquial de Arén",
+    "email": "restrepo.roberto@gmail.com",
+    "address": {
+      "street": "Conde de Barcelona, 2",
+      "suite": "1",
+      "city": "Aneto",
+      "zipcode": "624083835",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "974542025",
+    "website": "Juan Ignacio Cardona: 616613174",
+    "company": {
+      "name": "Archipretazgo Sobrarbe y Ribagoza ",
+      "catchPhrase": "Unidad pastoral de Benasque",
+      "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
     }
+  }
   }
 ]
