@@ -19,30 +19,5 @@
       "name": "Archipretazgo del Bajo Cinca",
       "catchPhrase": "Unidad pastoral de Fraga",
       "bs": "Jose María Huerva. Contacto: 974427274"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Jhon Mario Moná Carvajal",
-    "username": "Grupo Parroquial de Ainsa",
-    "email": "jhonmoncar@ gmail.com",
-    "address": {
-      "street": "Plan",
-      "suite": "",
-      "city": "Plan",
-      "zipcode": "613240435",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "613240435",
-    "website": "José Luis Nunez Gómez. Contacto: 642519244",
-    "company": {
-      "name": "Archiprestazgo Sobrarbe-Ribagorza",
-      "catchPhrase": "Unidad Pastoral de Ainza",
-      "bs": "Jhon Mario Mona C. Contacto: 6132404354"
-    }
-  }
-  }
+    }}
 ]
