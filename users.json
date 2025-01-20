@@ -365,28 +365,6 @@
       "catchPhrase": "Unidad Pastoral de Binefar",
       "bs": "Jose Antonio Castan Ballarin. Contacto: 649534204"
     }
-  },
-  {
-    "id": 234,
-    "name": "Hennry Giraldo",
-    "username": "Grupo Parroquial de Peñalba",
-    "email": "email",
-    "address": {
-      "street": "",
-      "suite": "1",
-      "city": "La Masadera",
-      "zipcode": "  ",
-      "geo": {
-        "lat": "",
-        "lng": ""
-      }
-    },
-    "phone": "",
-    "website": "Jose María Huerva. Contacto: 974 42 72 74",
-    "company": {
-      "name": "Archipretazgo del Bajo Cinca",
-      "catchPhrase": "Unidad pastoral de Fraga",
-      "bs": "Jose María Huerva. Contacto:974 42 72 74"
-    }
+  }
   }
 ]
