@@ -3,21 +3,26 @@
     "id": 1,"name": "Jose María Huerva",
     "username": "Grupo Parroquial Fraga",
     "email": "email",
-    "address": {
+    "address": 
+    {
       "street": "Plaza San Pedro, 1",
       "suite": "1",
       "city": "Fraga",
       "zipcode": "974427274",
-      "geo": {
+      "geo": 
+      {
         "lat": "",
         "lng": ""
       }
     },
     "phone": "696 26 26 08",
     "website": "Jose María Huerva. Contacto: 974427274",
-    "company": {
+    "company": 
+      {
       "name": "Archipretazgo del Bajo Cinca",
       "catchPhrase": "Unidad pastoral de Fraga",
       "bs": "Jose María Huerva. Contacto: 974427274"
-    }}
+      }
+    }
+  }
 ]
