@@ -18,7 +18,7 @@ const dataTableOptions = {
         info: "Mostrando de _START_ a _END_ de un total de _TOTAL_ registros",
         infoEmpty: "Ningún usuario encontrado",
         infoFiltered: "(filtrados desde _MAX_ registros totales)",
-        search: "<h2>CONSULTA CON EL NOMBRE DEL PUEBLO O PARROQUIA ========>:</h2>",
+        search: "<h3>CONSULTA CON EL NOMBRE DEL PUEBLO O PARROQUIA ========>:</h3>",
         loadingRecords: "Cargando...",
         paginate: {
             first: "Primero",
