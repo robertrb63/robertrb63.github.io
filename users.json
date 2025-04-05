@@ -184,13 +184,13 @@
         },
         {
           "id": 9,
-          "name": "Edinson Giraldo",
-          "username": "Grupo Parroquial de Benavarre",
+          "name": "",
+          "username": "33",
           "email": "@gmail.com",
           "address": {
             "street": "Plaza Sn Miguel - #8",
             "suite": "Apt 1",
-            "city": "Benabarre",
+            "city": "",
             "zipcode": "974 54 07 28",
             "geo": {
               "lat": "-37.3159",
@@ -1587,13 +1587,13 @@
         },
         {
           "id": 70,
-          "name": "José Vidal Salazar",
-          "username": "Grupo Parroquial de Boltaña",
+          "name": "",
+          "username": "",
           "email": "email",
           "address": {
             "street": "Calle Fallás, 6",
             "suite": "1",
-            "city": "Benabarre",
+            "city": "",
             "zipcode": "974 54 07 28",
             "geo": {
               "lat": "-68.6102",
