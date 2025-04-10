@@ -56,7 +56,7 @@ const listUsers = async () => {
                 <td>${user.phone}</td>
                 <td>${user.email}</td>
                 <td>${user.company.unidad}</td>
-                <td>${user.arcipreste}</td>
+                <td>${user.moderador}</td>
                 <td>${user.company.arcipreste}</td>
                 <td>${user.address.animador}</td>
             </tr>
