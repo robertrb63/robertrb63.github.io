@@ -20,59 +20,59 @@
           },
           {
             "id": 2,
-            "name": "Jose María Huerva",
-            "username": "Grupo Parroquial Fraga",
+            "name": "Jhon Mario Carmona Mona",
+            "username": "Ainsa",
             "email": "email@gmail.com",
             "address": {
-              "street": "Plaza San Pedro, 1",
-              "animador": "Montserrat   tel: 345345345",
-              "city": "Fraga",
-              "fijo": "974427274"
+              "street": "Ainsa",
+              "animador": "Mosen Omar   tel:  ",
+              "city": "Ainsa",
+              "fijo": "613240435"
             },
-            "phone": "mobil",
-            "moderador": "Jose María Huerva. Contacto:974427274",
+            "phone": "613240435",
+            "moderador": "Jhon Mario Carmona Mona. Contacto:6132404354",
             "company": {
-              "name": "Archipretazgo del Bajo Cinca",
-              "unidad": "Unidad pastoral de Fraga",
-              "arcipreste": "Jose María Huerva. Contacto:974427274"
+              "name": "Archipretazgo del Sobrarbe y Ribagorza",
+              "unidad": "Ainsa",
+              "arcipreste": "Jhon Mario Carmona Mona. Contacto:6132404354"
             }
           },
           {
             "id": 3,
-            "name": "Jose María Huerva",
-            "username": "Grupo Parroquial Fraga",
+            "name": "Mosen Jaime",
+            "username": "Barbastro",
             "email": "email@gmail.com",
             "address": {
-              "street": "Plaza San Pedro, 1",
-              "animador": "Montserrat   tel: 345345345",
-              "city": "Fraga",
-              "fijo": "974427274"
+              "street": "Barbastro",
+              "animador": "Mosen Omar   tel:  ",
+              "city": "Barbastro",
+              "fijo": " "
             },
-            "phone": "mobil",
-            "moderador": "Jose María Huerva. Contacto:974427274",
+            "phone": " ",
+            "moderador": "Mosen Omar. Contacto: ",
             "company": {
-              "name": "Archipretazgo del Bajo Cinca",
-              "unidad": "Unidad pastoral de Fraga",
-              "arcipreste": "Jose María Huerva. Contacto:974427274"
+              "name": "Archipretazgo del Barbastro",
+              "unidad": "Barbastro",
+              "arcipreste": "Mosen Omar. Contacto:"
             }
           },
           {
             "id": 4,
-            "name": "Jose María Huerva",
-            "username": "Grupo Parroquial Fraga",
+            "name": "Ruben Dario Sánchez Gómez",
+            "username": "Monzón",
             "email": "email@gmail.com",
             "address": {
-              "street": "Plaza San Pedro, 1",
-              "animador": "Montserrat   tel: 345345345",
-              "city": "Fraga",
-              "fijo": "974427274"
+              "street": "Monzón",
+              "animador": "Mosen Omar   tel:  ",
+              "city": "Monzón",
+              "fijo": " "
             },
-            "phone": "mobil",
-            "moderador": "Jose María Huerva. Contacto:974427274",
+            "phone": " ",
+            "moderador": "Oscar Vives G- Contacto 696 3728 90 ",
             "company": {
-              "name": "Archipretazgo del Bajo Cinca",
-              "unidad": "Unidad pastoral de Fraga",
-              "arcipreste": "Jose María Huerva. Contacto:974427274"
+              "name": "Archipretazgo del Medio Cinca y Literá",
+              "unidad": "Monzón",
+              "arcipreste": "Oscar Vives G- Contacto 696 3728 90"
             }
           }
         ]
