@@ -1,137 +1,105 @@
 <!DOCTYPE html>
-<html lang="es"> <!-- Cambiado a 'es' para español -->
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
-        <title>Responsable Parroquia</title>
-        <!-- Bootstrap-->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
-        <!-- DataTable -->
-        <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css" />
-        <!-- Font Awesome -->
-        <link
-            rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
-            integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
-            crossorigin="anonymous"
-            referrerpolicy="no-referrer"
-        />
-        <!-- Custom CSS (Opcional pero recomendado para el carrusel) -->
-        <link rel="stylesheet" href="styles.css" />
-        <style>
-            /* --- ESTILOS PARA MEJORAR EL CARRUSEL RESPONSIVO --- */
-            /* Limita la altura máxima del carrusel y asegura que las imágenes cubran el espacio */
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
+    <title>Responsable Parroquia</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+    <!-- DataTable -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+        .carousel-item img {
+            width: 100%;
+            max-height: 400px;
+            object-fit: cover;
+            object-position: center;
+        }
+
+        @media (max-width: 768px) {
             .carousel-item img {
-                width: 100%; /* Asegura que la imagen ocupe el ancho */
-                max-height: 400px; /* Altura máxima (ajusta según necesites) */
-                object-fit: cover; /* Escala la imagen manteniendo la relación de aspecto, recortando si es necesario */
-                object-position: center; /* Centra la imagen dentro de su contenedor */
+                max-height: 250px;
             }
+        }
 
-            /* Opcional: Ajustar altura máxima en pantallas más pequeñas */
-             @media (max-width: 768px) {
-                .carousel-item img {
-                   max-height: 250px; /* Una altura menor para móviles */
-                }
-             }
-            /* --- FIN ESTILOS CARRUSEL --- */
-
-             /* Estilo para la tabla responsiva (scroll horizontal en pantallas pequeñas) */
-             .table-responsive-container {
-                overflow-x: auto; /* Añade scroll horizontal si la tabla es muy ancha */
-             }
-
-        </style>
-    </head>
-    <body>
-
-        <!-- Contenedor principal para Bootstrap Grid -->
-        <div class="container-fluid"> <!-- Usa container-fluid para ancho completo o container para ancho fijo con márgenes -->
-
-            <!-- Fila para el Carrusel -->
-            <div class="row">
-                <div class="col-12"> <!-- El carrusel ocupa todo el ancho -->
-                    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                          <div class="carousel-item active">
-                            <!-- Quitamos height fijo, usamos w-100 y controlamos altura con CSS -->
-                            <img src="./logo-1.png" class="d-block w-100" alt="Logo Parroquia">
-                          </div>
-                          <div class="carousel-item">
-                            <img src="./obispo.jpg" class="d-block w-100" alt="Obispo">
-                          </div>
-                          <div class="carousel-item">
-                            <img src="./Barbastro.jpeg" class="d-block w-100" alt="Barbastro">
-                          </div>
+        .table-responsive-container {
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 class="text-center my-4">Responsable Parroquia</h1>
+    </header>
+    <main class="container-fluid">
+        <!-- Carrusel -->
+        <section class="row">
+            <div class="col-12">
+                <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="./logo-1.png" class="d-block w-100" alt="Logo Parroquia" loading="lazy">
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Next</span>
-                        </button>
+                        <div class="carousel-item">
+                            <img src="./obispo.jpg" class="d-block w-100" alt="Obispo" loading="lazy">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="./Barbastro.jpeg" class="d-block w-100" alt="Barbastro" loading="lazy">
+                        </div>
                     </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Anterior</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Siguiente</span>
+                    </button>
                 </div>
-            </div> <!-- Fin Fila Carrusel -->
+            </div>
+        </section>
 
-            <!-- Fila para la Tabla -->
-            <div class="row mt-4"> <!-- mt-4 añade un margen superior para separar del carrusel -->
-                <div class="col-12"> <!-- La tabla ocupa todo el ancho disponible -->
-                    <!-- Añadido un div contenedor para mejorar la responsividad de la tabla en pantallas pequeñas -->
-                    <div class="table-responsive-container">
-                        <table id="datatable_users" class="table table-striped w-100"> <!-- w-100 asegura que la tabla intente ocupar el ancho completo -->
-                            <caption>
-                                Espera un momento por favor: sigo buscando ...
-                            </caption>
-                            <thead>
-                                <tr>
-                                    <!-- Usamos text-center de Bootstrap en lugar de 'centered' -->
-                                    <th class="text-center">#</th>
-                                    <th class="text-center">Parroquia</th>
-                                    <th class="text-center">Párroco Responsable</th>
-                                    <th class="text-center">Contacto</th>
-                                    <th class="text-center">Email</th>
-                                    <th class="text-center">Unidad Pastoral</th>
-                                    <th class="text-center">Moderador U. P. </th>
-                                    <th class="text-center">Arcipreste</th>
-                                </tr>
-                            </thead>
-                            <tbody id="tableBody_users">
-                                <!-- El contenido de la tabla se cargará aquí mediante JavaScript -->
-                            </tbody>
-                        </table>
-                    </div> <!-- Fin table-responsive-container -->
+        <!-- Tabla -->
+        <section class="row mt-4">
+            <div class="col-12">
+                <div class="table-responsive-container">
+                    <table id="datatable_users" class="table table-striped w-100">
+                        <caption>
+                            Información de las parroquias.
+                        </caption>
+                        <thead>
+                            <tr>
+                                <th class="text-center">#</th>
+                                <th class="text-center">Parroquia</th>
+                                <th class="text-center">Párroco Responsable</th>
+                                <th class="text-center">Contacto</th>
+                                <th class="text-center">Email</th>
+                                <th class="text-center">Unidad Pastoral</th>
+                                <th class="text-center">Moderador U.P.</th>
+                                <th class="text-center">Arcipreste</th>
+                                <th class="text-center">Animador</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody_users">
+                            <!-- Los datos se cargarán dinámicamente -->
+                        </tbody>
+                    </table>
                 </div>
-            </div> <!-- Fin Fila Tabla -->
+            </div>
+        </section>
+    </main>
 
-        </div> <!-- Fin Container Principal -->
-
-        <!-- SCRIPTS (al final del body para mejor rendimiento) -->
-        <!-- jQuery -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-        <!-- Bootstrap Bundle JS (incluye Popper) -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-        <!-- DataTable -->
-        <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-        <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
-        <!-- Custom JS -->
-        <script src="main.js"></script>
-
-        <script>
-            // Inicialización básica de DataTables (dentro de main.js o aquí)
-            // $(document).ready(function () {
-            //     $('#datatable_users').DataTable({
-            //         // Opciones de DataTables si las necesitas
-            //         // Para mejorar la responsividad de DataTables, considera usar la extensión Responsive:
-            //         // responsive: true,
-            //         // Necesitarás incluir los JS/CSS de la extensión Responsive de DataTables
-            //     });
-            // });
-        </script>
-
-    </body>
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
+    <script src="main.js"></script>
+</body>
 </html>
