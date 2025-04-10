@@ -11,7 +11,7 @@
               "fijo": "974427274"
             },
             "phone": "mobil",
-            "arcipreste": "Jose María Huerva. Contacto:974427274",
+            "moderador": "Jose María Huerva. Contacto:974427274",
             "company": {
               "name": "Archipretazgo del Bajo Cinca",
               "unidad": "Unidad pastoral de Fraga",
@@ -30,7 +30,7 @@
               "fijo": "974427274"
             },
             "phone": "mobil",
-            "arcipreste": "Jose María Huerva. Contacto:974427274",
+            "moderador": "Jose María Huerva. Contacto:974427274",
             "company": {
               "name": "Archipretazgo del Bajo Cinca",
               "unidad": "Unidad pastoral de Fraga",
@@ -49,7 +49,7 @@
               "fijo": "974427274"
             },
             "phone": "mobil",
-            "arcipreste": "Jose María Huerva. Contacto:974427274",
+            "moderador": "Jose María Huerva. Contacto:974427274",
             "company": {
               "name": "Archipretazgo del Bajo Cinca",
               "unidad": "Unidad pastoral de Fraga",
@@ -68,45 +68,7 @@
               "fijo": "974427274"
             },
             "phone": "mobil",
-            "arcipreste": "Jose María Huerva. Contacto:974427274",
-            "company": {
-              "name": "Archipretazgo del Bajo Cinca",
-              "unidad": "Unidad pastoral de Fraga",
-              "arcipreste": "Jose María Huerva. Contacto:974427274"
-            }
-          },
-          {
-            "id": 5,
-            "name": "Jose María Huerva",
-            "username": "Grupo Parroquial Fraga",
-            "email": "email@gmail.com",
-            "address": {
-              "street": "Plaza San Pedro, 1",
-              "animador": "Montserrat   tel: 345345345",
-              "city": "Fraga",
-              "fijo": "974427274"
-            },
-            "phone": "mobil",
-            "arcipreste": "Jose María Huerva. Contacto:974427274",
-            "company": {
-              "name": "Archipretazgo del Bajo Cinca",
-              "unidad": "Unidad pastoral de Fraga",
-              "arcipreste": "Jose María Huerva. Contacto:974427274"
-            }
-          },
-          {
-            "id": 6,
-            "name": "Jose María Huerva",
-            "username": "Grupo Parroquial Fraga",
-            "email": "email@gmail.com",
-            "address": {
-              "street": "Plaza San Pedro, 1",
-              "animador": "Montserrat   tel: 345345345",
-              "city": "Fraga",
-              "fijo": "974427274"
-            },
-            "phone": "mobil",
-            "arcipreste": "Jose María Huerva. Contacto:974427274",
+            "moderador": "Jose María Huerva. Contacto:974427274",
             "company": {
               "name": "Archipretazgo del Bajo Cinca",
               "unidad": "Unidad pastoral de Fraga",
