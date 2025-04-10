@@ -25,7 +25,7 @@
             "email": "email@gmail.com",
             "address": {
               "street": "Ainsa",
-              "animador": " "Animador Laico   tel:  "  ",
+              "animador": "Animador Laico   tel:  ",
               "city": "Ainsa",
               "fijo": "613240435"
             },
@@ -44,7 +44,7 @@
             "email": "email@gmail.com",
             "address": {
               "street": "Barbastro",
-              "animador": " "Animador Laico   tel:  " ",
+              "animador": "Animador Laico   tel: ",
               "city": "Barbastro",
               "fijo": " "
             },
@@ -63,7 +63,7 @@
             "email": "email@gmail.com",
             "address": {
               "street": "Monzón",
-              "animador": " Animador Laico   tel:  " ",
+              "animador": "Animador Laico   tel:",
               "city": "Monzón",
               "fijo": " "
             },
