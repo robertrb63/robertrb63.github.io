@@ -6,7 +6,7 @@
             "email": "email@gmail.com",
             "address": {
               "street": "Plaza San Pedro, 1",
-              "animador": "Montserrat   tel: 345345345",
+              "animador": "Animador Laico   tel:  ",
               "city": "Fraga",
               "fijo": "974427274"
             },
@@ -25,7 +25,7 @@
             "email": "email@gmail.com",
             "address": {
               "street": "Ainsa",
-              "animador": "Mosen Omar   tel:  ",
+              "animador": " "Animador Laico   tel:  "  ",
               "city": "Ainsa",
               "fijo": "613240435"
             },
@@ -44,7 +44,7 @@
             "email": "email@gmail.com",
             "address": {
               "street": "Barbastro",
-              "animador": "Mosen Omar   tel:  ",
+              "animador": " "Animador Laico   tel:  " ",
               "city": "Barbastro",
               "fijo": " "
             },
@@ -63,7 +63,7 @@
             "email": "email@gmail.com",
             "address": {
               "street": "Monzón",
-              "animador": "Mosen Omar   tel:  ",
+              "animador": " Animador Laico   tel:  " ",
               "city": "Monzón",
               "fijo": " "
             },
