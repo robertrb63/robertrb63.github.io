@@ -74,5 +74,43 @@
               "unidad": "Monzón",
               "arcipreste": "Oscar Vives G- Contacto 696 3728 90"
             }
+          },
+          {
+            "id": 5,
+            "name": "Juan Ignacio Cardona Orozco",
+            "username": "Graus",
+            "email": "leonacho40@hotmail.com",
+            "address": {
+              "street": "Graus",
+              "animador": "Animador Laico   tel:",
+              "city": "Graus",
+              "fijo": " "
+            },
+            "phone": " ",
+            "moderador": "Juan Ignacio Cardona Orozco. Contacto 616 38 98 07 ",
+            "company": {
+              "name": "Sobrarbe y Ribagorza",
+              "unidad": "Graus",
+              "arcipreste": "hon Mario Moná. Contacto:613240435"
+            }
+          },
+          {
+            "id": 6,
+            "name": "Luis Edbin Rubiano López",
+            "username": "Benasque",
+            "email": "parroquiadebenasque@hotmail.com",
+            "address": {
+              "street": "Benasque",
+              "animador": "Animador Laico   tel:",
+              "city": "Graus",
+              "fijo": " "
+            },
+            "phone": " ",
+            "moderador": "Juan Ignacio Cardona Orozco. Contacto 616 38 98 07 ",
+            "company": {
+              "name": "Sobrarbe y Ribagorza",
+              "unidad": "Benasque",
+              "arcipreste": "hon Mario Moná. Contacto:613240435"
+            }
           }
         ]
