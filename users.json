@@ -112,5 +112,24 @@
               "unidad": "Benasque",
               "arcipreste": "hon Mario Moná. Contacto:613240435"
             }
+          },
+          {
+            "id": 7,
+            "name": "José Antonio Castán Ballarín",
+            "username": "Binefar",
+            "email": "joseacastan@hotmail.com",
+            "address": {
+              "street": "Binefar",
+              "animador": "Animador Laico   tel:",
+              "city": "Binefar",
+              "fijo": " "
+            },
+            "phone": "649534204 ",
+            "moderador": "Oscar Vives G- Contacto 696 3728 90 ",
+            "company": {
+              "name": "Medio Cinca y Literá",
+              "unidad": "Monzón",
+              "arcipreste": "hon Mario Moná. Contacto:613240435"
+            }
           }
         ]
