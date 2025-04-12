@@ -1,4 +1,3 @@
-
 [
   {
       "id": 1,
@@ -17,6 +16,63 @@
         "name": "Archipretazgo del Bajo Cinca",
         "unidad": "Unidad pastoral de Fraga",
         "arcipreste": "Jose María Huerva. Contacto:974427274"
+      }
+    },
+   {
+      "id": 2,
+      "name": "Jhon Mario Carmona Mona",
+      "username": "Ainsa",
+      "email": "email@gmail.com",
+      "address": {
+        "street": "Ainsa",
+        "animador": "Animador Laico   tel:  ",
+        "city": "Ainsa",
+        "fijo": "613240435"
+      },
+      "phone": "613240435",
+      "moderador": "Jhon Mario Carmona Mona. Contacto:6132404354",
+      "company": {
+        "name": " Sobrarbe y Ribagorza",
+        "unidad": "Ainsa",
+        "arcipreste": "Jhon Mario Carmona Mona. Contacto:6132404354"
+      }
+    },
+   {
+      "id": 3,
+      "name": "Mosen Jaime",
+      "username": "Barbastro",
+      "email": "email@gmail.com",
+      "address": {
+        "street": "Barbastro",
+        "animador": "Animador Laico   tel: ",
+        "city": "Barbastro",
+        "fijo": " 609682272 "
+      },
+      "phone": "609682272  ",
+      "moderador": "Mosen Omar. Contacto: ",
+      "company": {
+        "name": " Barbastro",
+        "unidad": "Barbastro",
+        "arcipreste": "Mosen Omar. Contacto:"
+      }
+    },
+   {
+      "id": 4,
+      "name": "Ruben Dario Sánchez Gómez",
+      "username": "Monzón",
+      "email": "email@gmail.com",
+      "address": {
+        "street": "Monzón",
+        "animador": "Animador Laico   tel:",
+        "city": "Monzón",
+        "fijo": "6822341583"
+      },
+      "phone": "6822341583",
+      "moderador": "Oscar Vives G- Contacto 696 3728 90 ",
+      "company": {
+        "name": "Medio Cinca y Literá",
+        "unidad": "Monzón",
+        "arcipreste": "Oscar Vives G- Contacto 696 3728 90"
       }
     }
 ]
