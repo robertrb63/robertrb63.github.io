@@ -36,6 +36,44 @@
         "unidad": "Ainsa",
         "arcipreste": "Jhon Mario Carmona Mona. Contacto:6132404354"
       }
+    },
+   {
+      "id": 3,
+      "name": "Ruben Dario Sánchez Gómez",
+      "username": "Monzón",
+      "email": "email@gmail.com",
+      "address": {
+        "street": "Monzón",
+        "animador": "Animador Laico   tel:  ",
+        "city": "Monzón",
+        "fijo": "613240435"
+      },
+      "phone": "613240435",
+      "moderador": "José Antonio Castán Ballarín. Contacto:649534204",
+      "company": {
+        "name": "Medio Cinca y Litera",
+        "unidad": "Monzón",
+        "arcipreste": "Jhon Mario Carmona Mona. Contacto:6132404354"
+      }
+    },
+   {
+      "id": 4,
+      "name": "Ruben Dario Sánchez Gómez",
+      "username": "Barbastro",
+      "email": "email@gmail.com",
+      "address": {
+        "street": "Barbastro",
+        "animador": "Animador Laico   tel:  ",
+        "city": "Barbastro",
+        "fijo": "679929215"
+      },
+      "phone": "679929215",
+      "moderador": "Mosen Jaime. Contacto:679929215",
+      "company": {
+        "name": "Somontano",
+        "unidad": "Barbastro",
+        "arcipreste": "Omar. Contacto:6132404354"
+      }
     }
 ]
 
