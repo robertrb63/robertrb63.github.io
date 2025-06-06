@@ -74,6 +74,213 @@
         "unidad": "Barbastro",
         "arcipreste": "Omar. Contacto:6132404354"
       }
-    }
+    },
+        {
+          "id": 5,
+          "name": "Juan Ignacio Cardona Orozco ",
+          "username": "Grupo Parroquial de Graus",
+          "email": "leonacho40@hotmail.com",
+          "address": {
+            "street": "Plaza Sn Miguel - #8",
+            "suite": "Apt 1",
+            "city": "Graus",
+            "zipcode": "974 54 07 28",
+            "geo": {
+              "lat": "-37.3159",
+              "lng": "81.1496"
+            }
+          },
+          "phone": "616 38 98 07",
+          "website": "Juan Ignacio Cardona. Contacto: 616613174",
+          "company": {
+            "name": "Archiprestazgo Sobrarbe-Ribagorza",
+            "catchPhrase": "Unidad Patoral de Graus",
+            "bs": "Jhon Mario Moná. Contacto:613240435"
+          }
+        }, 
+          {
+          "id": 6,
+          "name": "José Antonio Castán Ballarín",
+          "username": "Grupo Parroquial de Binefar",
+          "email": "joseacastan@hotmail.com",
+          "address": {
+            "street": "Casa Parroquial, C Maladeta, 5",
+            "suite": "1",
+            "city": "Binefar",
+            "zipcode": "José Antonio Castán Ballarín, Contacto:649534204",
+            "geo": {
+              "lat": "-68.6102",
+              "lng": "-47.0653"
+            }
+          },
+          "phone": "649534204",
+          "website": "Jose Antonio Castan Ballarin",
+          "company": {
+            "name": "Archipretazgo del Medio Cinca y Lietra",
+            "catchPhrase": "Unidad Pastoral de Binefar",
+            "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+          }
+        },
+        {
+          "id": 7,
+          "name": " Raul  Dago Rodriguez",
+          "username": "Grupo Parroquial de Tamarite",
+          "email": "raulquemado@gmail.com",
+          "address": {
+            "street": "C/Bon Vehì, 1, 22550",
+            "suite": "1",
+            "city": "Tamarite de Litera",
+            "zipcode": "974420116  ",
+            "geo": {
+              "lat": "Unidad Pastoral de Binefar",
+              "lng": ""
+            }
+          },
+          "phone": "645659963",
+          "website": "Jose Antonio Castan Ballarin",
+          "company": {
+            "name": "Archipretazgo del Medio Cinca y Lietra",
+            "catchPhrase": "Unidad Pastoral de Binefar",
+            "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+          }
+        },
+        {
+          "id": 8,
+          "name": "Roberto Antonio Restrepo Builes",
+          "username": "Grupo Parroquial de Arén",
+          "email": "restrepo.roberto@gmail.com",
+          "address": {
+            "street": "Calle Escuelas 3",
+            "suite": "Apt. 3C",
+            "city": "Peñalba",
+            "zipcode": "974542025",
+            "geo": {
+              "lat": "-37.3159",
+              "lng": "81.1496"
+            }
+          },
+          "phone": "624083835",
+          "website": "Juan Ignacio Cardona. Contacto: 616613174",
+          "company": {
+            "name": "Archiprestazgo Sobrarbe-Ribagorza",
+            "catchPhrase": "Unidad Patoral de Graus",
+            "bs": "Jhon Mario Moná. Contacto:613240435 "
+          }
+        },
+        {
+          "id": 9,
+          "name": "Jose Vidal Salazar Restrepo ",
+          "username": "Grupo Parroquial de Graus",
+          "email": "leonacho40@hotmail.com",
+          "address": {
+            "street": "Plaza Sn Miguel - #8",
+            "suite": "Apt 1",
+            "city": "Benabarre",
+            "zipcode": "974 54 07 28",
+            "geo": {
+              "lat": "-37.3159",
+              "lng": "81.1496"
+            }
+          },
+          "phone": "722 14 76 56",
+          "website": "Juan Ignacio Cardona. Contacto: 616613174",
+          "company": {
+            "name": "Archiprestazgo Sobrarbe-Ribagorza",
+            "catchPhrase": "Unidad Patoral de Graus",
+            "bs": "Jhon Mario Moná. Contacto:613240435"
+          }
+        },,
+        {
+          "id": 10,
+          "name": "Wilson Desiderio Paez Botia",
+          "username": "Grupo Parroquial de Binaced",
+          "email": "wildepabo@gmail.com",
+          "address": {
+            "street": "Calle Albalate 2, 2",
+            "suite": "4",
+            "city": "Torrente",
+            "zipcode": "974427274",
+            "geo": {
+              "lat": "",
+              "lng": ""
+            }
+          },
+          "phone": "641120176",
+          "website": "Oscar Vives G. Contacto:696372890",
+          "company": {
+            "name": "Archipretazgo del Medio Cinca y Lietra",
+            "catchPhrase": "Unidad Pastoral de Binefar",
+            "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+          }
+        },
+        {
+          "id": 11,
+          "name": "Oscar Vives Gallardo",
+          "username": "Grupo Parroquial de Binaced",
+          "email": "wildepabo@gmail.com",
+          "address": {
+            "street": "Calle Albalate 2, 2",
+            "suite": "4",
+            "city": "Pueyo de la Santa Cruz",
+            "zipcode": "974400080",
+            "geo": {
+              "lat": "",
+              "lng": ""
+            }
+          },
+          "phone": "696372890",
+          "website": "Oscar Vives G. Contacto:696372890",
+          "company": {
+            "name": "Archipretazgo del Medio Cinca y Lietra",
+            "catchPhrase": "Unidad Pastoral de Binefar",
+            "bs": "Jose Antonio Castan Ballarin. Contacto:649534204"
+          }
+        },
+        {
+          "id": 12,
+          "name": "Darinson Melendez",
+          "username": "Grupo Parroquial de Boltaña",
+          "email": "email",
+          "address": {
+            "street": "Calle Fallás, 6",
+            "suite": "1",
+            "city": "Boltaña",
+            "zipcode": "974502005",
+            "geo": {
+              "lat": "-68.6102",
+              "lng": "-47.0653"
+            }
+          },
+          "phone": "662 06 72 85",
+          "website": "Jhon Mario Moná",
+          "company": {
+            "name": "Archipretazgo Sobrarbe y Ribagoza ",
+            "catchPhrase": "Unidad pastoral de Aisa",
+            "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
+          }
+        },
+        {
+          "id": 13,
+          "name": "Luis Parada Carrillo",
+          "username": "Grupo Parroquial de Castejón del Sos",
+          "email": "luisparada2020@gmail.com",
+          "address": {
+            "street": "Conde de Barcelona, 2",
+            "suite": "1",
+            "city": "Castejón del Sos",
+            "zipcode": "690067793",
+            "geo": {
+              "lat": "-68.6102",
+              "lng": "-47.0653"
+            }
+          },
+          "phone": "690067793",
+          "website": "Luis Edbin Rubiano López: 646753174",
+          "company": {
+            "name": "Archipretazgo Sobrarbe y Ribagoza ",
+            "catchPhrase": "Unidad pastoral de Benasque",
+            "bs": "Jhon Mario Moná. Contacto:613 24 04 35"
+          }
+        }
 ]
 
