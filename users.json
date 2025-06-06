@@ -1,80 +1,80 @@
 [
   {
-      "id": 1,
-      "name": "Jose María Huerva",
-      "username": "Grupo Parroquial Fraga",
-      "email": "email@gmail.com",
-      "address": {
-        "street": "Plaza San Pedro, 1",
-        "animador": "Animador Laico   tel:  ",
-        "city": "Fraga",
-        "fijo": "974427274"
-      },
-      "phone": "974427274",
-      "moderador": "Jose María Huerva. Contacto:974427274",
-      "company": {
-        "name": "Archipretazgo del Bajo Cinca",
-        "unidad": "Unidad pastoral de Fraga",
-        "arcipreste": "Jose María Huerva. Contacto:974427274"
-      }
+    "id": 1,
+    "name": "Jose María Huerva",
+    "username": "Grupo Parroquial Fraga",
+    "email": "email@gmail.com",
+    "address": {
+      "street": "Plaza San Pedro, 1",
+      "animador": "Animador Laico",
+      "city": "Fraga",
+      "fijo": "974427274"
     },
-   {
-      "id": 2,
-      "name": "Jhon Mario Carmona Mona",
-      "username": "Ainsa",
-      "email": "email@gmail.com",
-      "address": {
-        "street": "Ainsa",
-        "animador": "Animador Laico   tel:  ",
-        "city": "Ainsa",
-        "fijo": "613240435"
-      },
-      "phone": "613240435",
-      "moderador": "Jhon Mario Carmona Mona. Contacto:6132404354",
-      "company": {
-        "name": " Sobrarbe y Ribagorza",
-        "unidad": "Ainsa",
-        "arcipreste": "Jhon Mario Carmona Mona. Contacto:6132404354"
-      }
+    "phone": "974427274",
+    "moderador": "Jose María Huerva. Contacto: 974427274",
+    "company": {
+      "name": "Archipretazgo del Bajo Cinca",
+      "unidad": "Unidad Pastoral de Fraga",
+      "arcipreste": "Jose María Huerva. Contacto: 974427274"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jhon Mario Carmona Mona",
+    "username": "Ainsa",
+    "email": "email@gmail.com",
+    "address": {
+      "street": "Ainsa",
+      "animador": "Animador Laico",
+      "city": "Ainsa",
+      "fijo": "613240435"
     },
-   {
-      "id": 3,
-      "name": "Ruben Dario Sánchez Gómez",
-      "username": "Monzón",
-      "email": "email@gmail.com",
-      "address": {
-        "street": "Monzón",
-        "animador": "Animador Laico   tel:  ",
-        "city": "Monzón",
-        "fijo": "613240435"
-      },
-      "phone": "613240435",
-      "moderador": "José Antonio Castán Ballarín. Contacto:649534204",
-      "company": {
-        "name": "Medio Cinca y Litera",
-        "unidad": "Monzón",
-        "arcipreste": "Jhon Mario Carmona Mona. Contacto:6132404354"
-      }
+    "phone": "613240435",
+    "moderador": "Jhon Mario Carmona Mona. Contacto: 613240435",
+    "company": {
+      "name": "Sobrarbe y Ribagorza",
+      "unidad": "Ainsa",
+      "arcipreste": "Jhon Mario Carmona Mona. Contacto: 613240435"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ruben Dario Sánchez Gómez",
+    "username": "Monzón",
+    "email": "email@gmail.com",
+    "address": {
+      "street": "Monzón",
+      "animador": "Animador Laico",
+      "city": "Monzón",
+      "fijo": "613240435"
     },
-   {
-      "id": 4,
-      "name": "Mosen Jaime",
-      "username": "Barbastro",
-      "email": "email@gmail.com",
-      "address": {
-        "street": "Barbastro",
-        "animador": "Animador Laico   tel:  ",
-        "city": "Barbastro",
-        "fijo": "679929215"
-      },
-      "phone": "679929215",
-      "moderador": "Mosen Jaime. Contacto:679929215",
-      "company": {
-        "name": "Somontano",
-        "unidad": "Barbastro",
-        "arcipreste": "Omar. Contacto:6132404354"
-      }
+    "phone": "613240435",
+    "moderador": "José Antonio Castán Ballarín. Contacto: 649534204",
+    "company": {
+      "name": "Medio Cinca y Litera",
+      "unidad": "Monzón",
+      "arcipreste": "Jhon Mario Carmona Mona. Contacto: 613240435"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mosen Jaime",
+    "username": "Barbastro",
+    "email": "email@gmail.com",
+    "address": {
+      "street": "Barbastro",
+      "animador": "Animador Laico",
+      "city": "Barbastro",
+      "fijo": "679929215"
     },
+    "phone": "679929215",
+    "moderador": "Mosen Jaime. Contacto: 679929215",
+    "company": {
+      "name": "Somontano",
+      "unidad": "Barbastro",
+      "arcipreste": "Omar. Contacto: 613240435"
+    }
+  },
         {
           "id": 5,
           "name": "Juan Ignacio Cardona Orozco ",
