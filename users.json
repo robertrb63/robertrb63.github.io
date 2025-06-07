@@ -265,6 +265,42 @@
             "unidad": "Unidad pastoral de Ainsa",
             "arcipreste": "Jhon Mario Moná. Contacto:613 24 04 35"
           }
-        }
+        },
+        {
+          "id": 15,
+          "name": "Aurelio Ricau SanJuan",
+          "username": "Grupo Parroquial de Roda de Isábena",
+          "email": "@gmail.com",
+          "address": {
+            "street": "Plaza Sn Miguel - #8",
+            "animador": "Animador Laico",
+            "city": "Roda de Isábena",
+            "fijo": "974540728"
+          },
+          "phone": "615378116",
+          "moderador": "Jhon Mario Moná. Contacto:613 24 04 35",
+          "company": {
+            "name": "Archipretazgo Sobrarbe y Ribagorza",
+            "unidad": "Unidad pastoral de Ainsa",
+            "arcipreste": "Jhon Mario Moná. Contacto:613 24 04 35"
+          }
+          },
+          {
+          "id": 16,
+          "name": "Rafael Carrasquer Carrasquer",
+          "username": "Grupo Parroquial Fraga",
+          "email": "email@gmail.com",
+          "address": {
+            "street": "Plaza de la Iglesia, 3",
+            "animador": "Animador Laico",
+            "city": "Ballobar",
+            "fijo": "660 27 29 68"
+          },
+          "phone": "660 27 29 68",
+          "moderador": "Jose María Huerva. Contacto: 974427274",
+          "company": {
+            "name": "Archipretazgo del Bajo Cinca",
+            "unidad": "Unidad Pastoral de Fraga",
+            "arcipreste": "Jose María Huerva. Contacto: 974427274"
+          } 
 ]
-
