@@ -303,5 +303,24 @@
             "unidad": "Unidad Pastoral de Fraga",
             "arcipreste": "Jose María Huerva. Contacto: 974427274"
           } 
+          },
+          {
+          "id": 17,
+          "name": "José Luis Pueyo Jiménez",
+          "username": "Grupo Parroquial de Campo",
+          "email": "joseluispueyo10@gmail.com",
+          "address": {
+            "street": "Plaza Sn Miguel - #8",
+            "animador": "Animador Laico",
+            "city": "Campo",
+            "fijo": "974540728"
+          },
+          "phone": "636149704",
+          "moderador": "Jose María Huerva. Contacto: 974427274",
+          "company": {
+            "name": "Archipretazgo del Bajo Cinca",
+            "unidad": "Unidad Pastoral de Fraga",
+            "arcipreste": "Jose María Huerva. Contacto: 974427274"
+          } 
           }
 ]
