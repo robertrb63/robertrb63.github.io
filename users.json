@@ -516,6 +516,25 @@
             "unidad": "Unidad Pastoral de Binefar",
             "arcipreste": "Jose Antonio Castan Ballarin. Contacto:649534204"
           }
-        }
+        },
+          {
+          "id": 28,
+          "name": "Lenin Ramón Melendez",
+          "username": "Grupo Parroquial Fraga",
+          "email": "email@gmail.com",
+          "address": {
+            "street": "Plaza de la Iglesia, 3",
+            "animador": "Animador Laico",
+            "city": "Torrente",
+            "fijo": "643938155"
+          },
+          "phone": "643938155",
+          "moderador": "Jose María Huerva. Contacto: 974427274",
+          "company": {
+            "name": "Arciprestazgo del Bajo Cinca",
+            "unidad": "Unidad Pastoral de Fraga",
+            "arcipreste": "Jose María Huerva. Contacto: 974427274"
+          } 
+          }
 ]
 
