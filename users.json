@@ -535,6 +535,25 @@
             "unidad": "Unidad Pastoral de Fraga",
             "arcipreste": "Jose María Huerva. Contacto: 974427274"
           } 
-          }
+          },
+  {
+    "id": 29,
+    "name": "Johanny Cardona",
+    "username": "Barbastro",
+    "email": "email@gmail.com",
+    "address": {
+      "street": "Barbastro",
+      "animador": "Animador Laico",
+      "city": "Barbastro",
+      "fijo": "685490627"
+    },
+    "phone": "685490627",
+    "moderador": "Mosen Jaime. Contacto: 679929215",
+    "company": {
+      "name": "Somontano",
+      "unidad": "Barbastro",
+      "arcipreste": "Omar. Contacto: 613240435"
+    }
+  }
 ]
 
