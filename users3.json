@@ -2786,5 +2786,20 @@
      "telArcipreste": 613240435,
      "animador": "Monserrat Fernandez",
      "telAnimador": 678587190
+    },
+     {
+     "id": 180,
+     "nombre": "Mosen Johanny Cardona",
+     "telefono": 679929215,
+     "email": "pjocavil@yahoo.com",
+     "poblacion": "San Francisco",
+     "unidad": "Barbastro",
+     "moderador": "Mosen Jaime",
+     "telModerador": 679929215,
+     "arcipestazgo": "Somontano",
+     "arcipreste": "Mosen Omar",
+     "telArcipreste": 604851230,
+     "animador": "Mosen Jaime",
+     "telAnimador": 679929215
     }
    ]
