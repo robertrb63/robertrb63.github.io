@@ -102,6 +102,17 @@
             </div>
         </section>
     </main>
+	<!-- Scripts -->
+<link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
+<script type="module">
+	import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+
+	createChat({
+		webhookUrl: 'http://localhost:5678/webhook/331dcfba-8580-4970-8610-8278a8548326/chat',
+		title: 'BarMon',
+		locale: 'es'
+	});
+</script>
 
     <!-- Scripts -->
     <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
