@@ -37,6 +37,14 @@
     <header>
         <h1 class="text-center my-4">Responsable Parroquia</h1>
     </header>
+	<link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
+<script type="module">
+	import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+
+	createChat({
+		webhookUrl: 'http://localhost:5678/webhook/331dcfba-8580-4970-8610-8278a8548326/chat'
+	});
+</script>
     <main class="container-fluid">
         <!-- Carrusel -->
         <section class="row">
