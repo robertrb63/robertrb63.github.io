@@ -102,25 +102,33 @@
             </div>
         </section>
     </main>
-	<!-- Scripts -->
+<!-- Estilos del chat -->
 <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
+
+<!-- Script del chat -->
 <script type="module">
 	import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
 
 	createChat({
-		webhookUrl: 'http://localhost:5678/webhook/331dcfba-8580-4970-8610-8278a8548326/chat',
+		webhookUrl: 'https://TU_DOMINIO_SEGURO/webhook/331dcfba-8580-4970-8610-8278a8548326/chat',
 		title: 'BarMon',
-		locale: 'es'
-	});
-</script>
-
-    <!-- Scripts -->
-    <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
-<script type="module">
-	import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
-
-	createChat({
-		webhookUrl: 'http://localhost:5678/webhook/331dcfba-8580-4970-8610-8278a8548326/chat'
+		defaultLanguage: 'es',
+		i18n: {
+			es: {
+				title: '¡Hola! 👋',
+				subtitle: 'Bienvenido a BarMon. ¿En qué puedo ayudarte?',
+				footer: '',
+				getStarted: 'Nueva conversación',
+				inputPlaceholder: 'Escribe tu pregunta...'
+			}
+		},
+		initialMessages: [
+			'¡Hola! 👋',
+			'Mi nombre es BarMon. ¿En qué puedo ayudarte hoy?'
+		],
+		showWelcomeScreen: true,
+		mode: 'window',
+		loadPreviousSession: true
 	});
 </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
