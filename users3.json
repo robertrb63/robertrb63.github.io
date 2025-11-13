@@ -43,6 +43,66 @@
     "telArcipreste": 649534204,
     "animador": "Oscar Vives G",
     "telAnimador": 696372890
-  }
+  }},
+    {
+        "id": 1,
+        "nombre": "Mosen Jaime",
+        "telefono": 679929215,
+        "email": "@gmail.com",
+        "poblacion": "Barbastro",
+        "unidad": "Barbastro",
+        "moderador": "Mosen Jaime",
+        "telModerador": 679929215,
+        "arcipestazgo": "Somontano",
+        "arcipreste": "Mosen Omar",
+        "telArcipreste": 604851230,
+        "animador": "Silvia",
+        "telAnimador": 699139111
+    },
+    {
+        "id": 5,
+        "nombre": "Jhon Mario Carmona Mona",
+        "telefono": 613240435,
+        "email": "@gmail.com",
+        "poblacion": "Ainsa",
+        "unidad": "Ainsa",
+        "moderador": "Jhon Mario Mona Carvajal",
+        "telModerador": 613240435,
+        "arcipestazgo": "Sobrarbe y Ribargorza",
+        "arcipreste": "Jhon Mario Mona Carvajal",
+        "telArcipreste": 613240435,
+        "animador": "Hna. Sonia",
+        "telAnimador": 696522838
+    },
+    {
+        "id": 15,
+        "nombre": "Darinson Melendez",
+        "telefono": "662 067285",
+        "email": "@gmail.com",
+        "poblacion": "boltaña",
+        "unidad": "Ainsa",
+        "moderador": "Jhon Mario Mona Carvajal",
+        "telModerador": 613240435,
+        "arcipestazgo": "Sobrarbe y Ribargorza",
+        "arcipreste": "Jhon Mario Carmona Mona",
+        "telArcipreste": 613240435,
+        "animador": "Hna. Sonia",
+        "telAnimador": 696522838
+    },
+    {
+        "id": 21,
+        "nombre": "Luis Parada Carrillo",
+        "telefono": 690067793,
+        "email": "luisparada2020@gmail.com",
+        "poblacion": "Castejon del Sos",
+        "unidad": "Benasque",
+        "moderador": "Luis Edbin Rubiano López",
+        "telModerador": 646753174,
+        "arcipestazgo": "Sobrarbe y Ribargorza",
+        "arcipreste": "Jhon Mario Mona Carvajal",
+        "telArcipreste": 613240435,
+        "animador": "Jhon Mario Mona Carvajal",
+        "telAnimador": 613240435
+    }
 ]
 
